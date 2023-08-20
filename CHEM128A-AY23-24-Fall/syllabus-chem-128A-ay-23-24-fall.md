@@ -21,7 +21,7 @@ date: August 18, 2023
 <!-- Reference URLs -->
 [dogs-in-clothes]: https://start.duckduckgo.com/?q=dogs+wearing+clothes&iar=images&iax=images&ia=images&kp=1
 [1-on-1-calendar]: https://calendar.app.google/mHM77jzbU5KJoiaF6
-[standards-for-student-work]: https://hackmd.io/@hmuchalski/SkGJe0kii
+[standards-for-student-work]: https://github.com/hmuchalski/ochem1/blob/main/CHEM128A-AY23-24-Fall/standards-for-student-work.md
 [cnvs]: https://fresnostate.instructure.com/courses/78400
 [signaling]: https://socialsci.libretexts.org/Bookshelves/Economics/Principles_of_Microeconomics_(Curtis_and_Irvine)/05%3A_The_Factors_of_Production/13%3A_Human_capital_and_the_income_distribution/13.04%3A_Education_as_signalling
 [emrn]: http://rtalbert.org/content/images/2022/04/EMRN-rubric-2020.png
