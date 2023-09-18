@@ -1,7 +1,7 @@
 ---
 title: Course Syllabus (CHEM 128A) 
 author: Hubert Muchalski
-date: August 26, 2023
+date: September 18, 2023
 # css: https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css
 ---
 
