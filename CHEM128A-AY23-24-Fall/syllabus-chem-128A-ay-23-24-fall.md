@@ -298,7 +298,7 @@ Here are the suggested edits and grammar corrections for your list of learning o
 10. I can categorize chemical transformations as substitution, addition, or elimination. I can determine the change in enthalpy using values of bond dissociation energy. I can use reaction-energy diagrams to communicate the kinetics and thermodynamics of chemical reactions.
 11. (**CORE**) Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkyl halides and sulfonates.
 12. I can explain the selectivity and divergent reaction pathways of nucleophilic substitution and elimination reactions using conformational analysis and curved arrow mechanisms. 
-13. Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkenes.
+13. (**CORE**)Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkenes.
 14. Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkynes
 15. I can identify the monomer and type of polymerization (cationic, anionic, or radical) needed to prepare a given polymer. I can draw a mechanism of formation of a tetramer for the selected polymer.
 
