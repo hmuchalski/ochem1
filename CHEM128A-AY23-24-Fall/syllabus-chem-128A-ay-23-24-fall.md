@@ -292,8 +292,8 @@ Here are the suggested edits and grammar corrections for your list of learning o
 4. (**CORE**) I can rationalize acidity and basicity trends of organic molecules according to the Brønsted–Lowry theory.
 5. (**CORE**) I can predict the position of acid-base equilibrium and choose a suitable reagent for an efficient proton transfer reaction.
 6. I can use various projections of structures and conformational analysis to assess the relative energy of conformations of chain molecules and cyclohexane derivatives.
-7. I can identify types of isomeric relationships between molecules. I can use drawings of structures and projections to demonstrate the stereoisomeric relationship between molecules.
-8. (**CORE**) I can use IUPAC nomenclature rules to convert structure to name and name to structure, including markers of absolute (R/S) and relative (*cis*/*trans*, *E*/*Z*, *syn*/*anti*) stereochemical information.
+7. (**CORE**) I can use IUPAC nomenclature rules to convert structure to name and name to structure, including markers of absolute (R/S) and relative (*cis*/*trans*, *E*/*Z*, *syn*/*anti*) stereochemical information.
+8. I can identify types of isomeric relationships between molecules. I can use drawings of structures and projections to demonstrate the stereoisomeric relationship between molecules.
 9. (**CORE**) I can identify reaction mechanism patterns and draw curved arrows to illustrate bond-forming and bond-breaking steps. I can draw structures of transition states and reactive intermediates. I can identify nucleophilic and electrophilic centers in organic molecules.
 10. I can categorize chemical transformations as substitution, addition, or elimination. I can determine the change in enthalpy using values of bond dissociation energy. I can use reaction-energy diagrams to communicate the kinetics and thermodynamics of chemical reactions.
 11. (**CORE**) Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkyl halides and sulfonates.
