@@ -284,8 +284,6 @@ Large portions of the language of this syllabus as well as ideas related to grow
 
 # Appendix A: List of Learning Targets
 
-Here are the suggested edits and grammar corrections for your list of learning objectives:
-
 1. (**CORE**) I can deduce bonding information (hybridization, formal charge, geometry, valence, charge polarization) embedded in chemical representations. I can draw Lewis structures compliant with the bond-line (zig-zag) convention.
 2. I can identify functional groups and common abbreviations. I can convert between different drawing conventions and styles and recognize implicit carbons and hydrogens in a structure.
 3. (**CORE**) I can distinguish between localized and delocalized bonding systems. I can draw resonance structures to show electron delocalization and assess their relative contribution to the overall electronic character of the molecule.
