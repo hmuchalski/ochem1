@@ -1,7 +1,7 @@
 ---
 title: Course Syllabus (CHEM 128A) 
 author: Hubert Muchalski
-date: September 18, 2023
+date: October 18, 2023
 # css: https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css
 ---
 
@@ -16,7 +16,7 @@ date: September 18, 2023
 | Email        | hmuchalski@mail.fresnostate.edu |  
 | Office phone | 559-278-2711                    |  
 | Office       | Science 1, room 352             |  
-| Student support hours | Mon, Tue 15:45--17:00 and by [appointment][1-on-1-calendar] |  
+| Student support hours | Mon, Tue 15:30--17:00 and by [appointment][1-on-1-calendar] |  
 
 <!-- Reference URLs -->
 [dogs-in-clothes]: https://start.duckduckgo.com/?q=dogs+wearing+clothes&iar=images&iax=images&ia=images&kp=1
@@ -149,7 +149,7 @@ You will be engaging with several kinds of activities in the course, both to fac
 | Assignment      | What is graded                                                  | Shows on Canvas. | Can be revised? |  
 | :-------------- | :-------------------------------------------------------------- | :------------------------- | :-------------- |  
 | Class Primer    | Completeness and effort only                                    | `1` or `0`                 | No              |  
-| iClicker Credit | Participation (answer given to >75 questions)                   | `1` or `0`                 | No              |  
+| iClicker Credit | Participation (answer given to >75% of polls that day)                   | `1` or `0`                 | No              |  
 | Learning Target | Completeness and correctness                                    | `0`, `1`, or `2`           | Yes             |  
 | Class Journal   | Completeness, effort, correctness, and clarity of communication | `0` or `1`                 | Yes             |  
 | Final Exam      | Correctness only                                                | Points, 70 maximum         | No              |  
@@ -179,7 +179,7 @@ If the total number of assignments of a given type is changed due to scheduling 
 | Class Primer (24)          | 8     | 12                | 16                | 20                |  
 | Learning Targets @ Level 1 | any 8 | 8 CORE + 2 others | 8 CORE + 4 others | 8 CORE + 6 others |  
 | Learning Targets @ Level 2 | 0     | 8 CORE            | 8 CORE + 2 others | 8 CORE + 4 others |  
-| Class Journal              | 0     | 1                 | 3                 | 5                 |  
+| Class Journal              | 0     | 0                 | 1                 | 3                 |  
 | iClicker Credits           | 8     | 12                | 16                | 20                |  
 | Final Exam (70)            | 21    | 28                | 35                | 42                |  
 
@@ -247,7 +247,7 @@ Deadlines for Class Primers, and Class Journal are listed on Canvas. In cases of
 
 | Assignment | Deadline policy |
 | :--------- | :-------------- |
-| Class Primers | Due at 11:59 pm day before the class meeting. |
+| Class Primers | Due at 11:59 am the day of the class meeting. |
 | Class Journal | Due one week after claiming the problem, submitted electronically on Canvas. If revisions are needed, they are due within 2 weeks after feedback was released to the student. | 
 
 ## Technology issues when submitting work
@@ -270,7 +270,7 @@ In addition to course policies, you are expected to be familiar with Academic Re
 
 - [Class Schedule Policies](http://fresnostate.edu/studentaffairs/classschedule/policy/)
 - [Copyright Policy](http://libguides.csufresno.edu/copyright)
-- [Services for Students with Dissabilities](http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html)
+- [Services for Students with Disabilities](http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html)
 - [Academic Integrity](http://fresnostate.edu/studentaffairs/studentconduct/academic-integrity/)
 - [Policy on Cheating and Plagiarism](http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html)
 - [Add/Drop Course](http://fresnostate.edu/studentaffairs/classschedule/registration/add-drop.html)

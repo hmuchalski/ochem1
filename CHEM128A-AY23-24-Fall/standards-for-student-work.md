@@ -55,7 +55,7 @@ The four attributes of a successful Class Journal article are:
 
 ## Completeness
 
-The target audience for Class Journal articles is a student like you---person who havs some background chemistry knowledge that, but who has no familiarity with the problem described in the article. *The instructor (prof. Muchalski) is not the audience*---don't assume that the person reading the solution has a graduate degree in organic chemistry or has been studying the topic before. Completeness means that all required parts of the solution are present and explained, with no major gaps left for the reader to fill in. 
+The target audience for Class Journal articles is a student like you---person who has some background chemistry knowledge that, but who has no familiarity with the problem described in the article. *The instructor (prof. Muchalski) is not the audience*---don't assume that the person reading the solution has a graduate degree in organic chemistry or has been studying the topic before. Completeness means that all required parts of the solution are present and explained, with no major gaps left for the reader to fill in. 
 
 If you can't honestly say that a student in CHEM 128A could follow the solution from beginning to end and agree with your conclusions without doing any additional work on the side, then your writeup needs further editing. (And it will probably be marked *Revise* if submitted.)
 
