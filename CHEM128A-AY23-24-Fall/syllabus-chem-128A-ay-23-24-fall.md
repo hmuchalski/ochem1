@@ -1,7 +1,7 @@
 ---
 title: Course Syllabus (CHEM 128A) 
 author: Hubert Muchalski
-date: October 18, 2023
+updated: November 23, 2023
 # css: https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css
 ---
 
@@ -172,16 +172,16 @@ I will publish (and keep adding throughout the semester) a list of problems for 
 
 Your course grade is determined using the table below. In order to earn a particular letter grade, each requirement must be met in the column for that grade, **the highest grade for which all the requirements are met**. There are no statistical or numerical adjustments (a.k.a. grading on a curve). Failing grade (F) is given if not all the requirements for a "D" are met. In the table below, numerical values indicate the minimum level needed to meet the requirement; amounts above this level also meet the requirement. 
 
-If the total number of assignments of a given type is changed due to scheduling or other issues, this table will be updated. "M+" means mark "M" or better. I recommend using Course Grade Tracker as the semester progresses to have a full view of your course grade. 
+If the total number of assignments of a given type is changed due to scheduling or other issues, this table will be updated. 
 
-| Category (total)           | D     | C                 | B                 | A                 |  
-| -------------------------- | ----- | ----------------- | ----------------- | ----------------- |  
-| Class Primer (24)          | 8     | 12                | 16                | 20                |  
-| Learning Targets @ Level 1 | any 8 | 8 CORE + 2 others | 8 CORE + 4 others | 8 CORE + 6 others |  
-| Learning Targets @ Level 2 | 0     | 8 CORE            | 8 CORE + 2 others | 8 CORE + 4 others |  
-| Class Journal              | 0     | 0                 | 1                 | 3                 |  
-| iClicker Credits           | 8     | 12                | 16                | 20                |  
-| Final Exam (70)            | 21    | 28                | 35                | 42                |  
+| Category (total)           | D     | C          | B           | A           |  
+| -------------------------- | ----- | ---------- | ----------- | ----------- |  
+| Class Primer (24)          | 8     | 12         | 16          | 20          |  
+| Learning Targets Passed 1X | any 7 | 9 (7 CORE) | 11 (7 CORE) | 13 (7 CORE) |  
+| Learning Targets Passed 2X | 0     | 7 CORE     | 9 (7 CORE)  | 11 (7 CORE) |  
+| Class Journal              | 0     | 0          | 1           | 3           |  
+| iClicker Credits           | 8     | 12         | 16          | 20          |  
+| ~~Final Exam (70)~~            | ~~21~~    | ~~28~~         | ~~35~~          | ~~42~~          |  
 
 <!-- :::info
 **Important:** You can't prop-up work on Class Journal, for example, by doing more Learning Targets. Also, you don't have to do it all. If you aim for "A", you don't have to complete _every Learning Target_. And let me repeat, to "complete" a Learning Target means to **demonstrate skill two times**. 
@@ -296,7 +296,7 @@ Large portions of the language of this syllabus as well as ideas related to grow
 10. I can categorize chemical transformations as substitution, addition, or elimination. I can determine the change in enthalpy using values of bond dissociation energy. I can use reaction-energy diagrams to communicate the kinetics and thermodynamics of chemical reactions.
 11. (**CORE**) Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkyl halides and sulfonates.
 12. I can explain the selectivity and divergent reaction pathways of nucleophilic substitution and elimination reactions using conformational analysis and curved arrow mechanisms. 
-13. (**CORE**)Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkenes.
+13. Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkenes.
 14. Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkynes
 15. I can identify the monomer and type of polymerization (cationic, anionic, or radical) needed to prepare a given polymer. I can draw a mechanism of formation of a tetramer for the selected polymer.
 
