@@ -142,7 +142,7 @@ You will be engaging with several kinds of activities in the course, both to fac
 2. **iClicker Credits.** In-class student response polls (iClicker Reef) that guide the discussion and give me feedback when class-wide confusion arises. You will receive one credit if you participate in (= give answer to) 75% of questions asked in class session. You should try your best to answer correctly but correctness is not factored into the score, only participation.
 3. **Checkpoints.** Almost every week I will set aside some class time for a timed quiz over a subset of the 15 Learning Targets [found in Appendix A](#appendix-a-list-of-learning-targets). Your primary goal is to provide evidence of learning by solving LT problems.  
 4. **Class Journal.** Short papers that _show and communicate_ complete solution to an integrated problem that assess student skills across multiple learning objectives. 
-5. **Final exam** will be on **Wednesday, December 13th, 2023 at 15:30**. The final exam is composed of 70 multiple choice questions designed by education experts from the American Chemical Society. Exam time is 110 minutes. 
+5. **Final examination period** will be on **Wednesday, December 13th, 2023 at 15:30**. This will be the last opportunity to demonstrate learning by solving *Learning Target* problems. ~~The final exam is composed of 70 multiple choice questions designed by education experts from the American Chemical Society. Exam time is 110 minutes.~~ 
 
 ## How each assignment is marked 
 
@@ -152,7 +152,7 @@ You will be engaging with several kinds of activities in the course, both to fac
 | iClicker Credit | Participation (answer given to >75% of polls that day)                   | `1` or `0`                 | No              |  
 | Learning Target | Completeness and correctness                                    | `0`, `1`, or `2`           | Yes             |  
 | Class Journal   | Completeness, effort, correctness, and clarity of communication | `0` or `1`                 | Yes             |  
-| Final Exam      | Correctness only                                                | Points, 70 maximum         | No              |  
+<!-- | Final Exam      | Correctness only                                                | Points, 70 maximum         | No              |   -->
 
 ## Learning Targets and Checkpoints
 
@@ -170,9 +170,7 @@ I will publish (and keep adding throughout the semester) a list of problems for 
 
 ## Final letter grades
 
-Your course grade is determined using the table below. In order to earn a particular letter grade, each requirement must be met in the column for that grade, **the highest grade for which all the requirements are met**. There are no statistical or numerical adjustments (a.k.a. grading on a curve). Failing grade (F) is given if not all the requirements for a "D" are met. In the table below, numerical values indicate the minimum level needed to meet the requirement; amounts above this level also meet the requirement. 
-
-If the total number of assignments of a given type is changed due to scheduling or other issues, this table will be updated. 
+Your course grade is determined using the table below. In order to earn a particular letter grade, each requirement must be met in the column for that grade, **the highest grade for which all the requirements are met**. There are no statistical or numerical adjustments (a.k.a. grading on a curve). Failing grade (F) is given if not all the requirements for a "D" are met. In the table below, numerical values indicate the minimum level needed to meet the requirement; amounts above this level also meet the requirement. If the total number of assignments of a given type is changed due to scheduling or other issues, this table will be updated. 
 
 | Category (total)           | D     | C          | B           | A           |  
 | -------------------------- | ----- | ---------- | ----------- | ----------- |  
@@ -181,7 +179,7 @@ If the total number of assignments of a given type is changed due to scheduling 
 | Learning Targets Passed 2X | 0     | 7 CORE     | 9 (7 CORE)  | 11 (7 CORE) |  
 | Class Journal              | 0     | 0          | 1           | 3           |  
 | iClicker Credits           | 8     | 12         | 16          | 20          |  
-| ~~Final Exam (70)~~            | ~~21~~    | ~~28~~         | ~~35~~          | ~~42~~          |  
+<!-- | Final Exam (70)            | 21    | 28         | 35          | 42          |   -->
 
 <!-- :::info
 **Important:** You can't prop-up work on Class Journal, for example, by doing more Learning Targets. Also, you don't have to do it all. If you aim for "A", you don't have to complete _every Learning Target_. And let me repeat, to "complete" a Learning Target means to **demonstrate skill two times**. 
