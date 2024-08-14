@@ -5,8 +5,6 @@ updated: November 23, 2023
 # css: https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css
 ---
 
-- [Mechanisms in Motion][mechanism-in-motion]
-
 | Course Name           | Organic Chemistry 1 (lecture)                         |  
 | :-------------------- | :---------------------------------------------------- |  
 | Semester              | AY 24–25 Fall                                         |  
@@ -25,7 +23,7 @@ updated: November 23, 2023
 [dogs-in-clothes]: https://start.duckduckgo.com/?q=dogs+wearing+clothes&iar=images&iax=images&ia=images&kp=1
 [1-on-1-calendar]: https://calendar.app.google/89WXddVpYZ5YwzMD6
 [standards-for-student-work]: https://github.com/hmuchalski/ochem1/blob/main/CHEM128A-AY23-24-Fall/standards-for-student-work.md
-[cnvs]: https://fresnostate.instructure.com/courses/78400
+[cnvs]: https://fresnostate.instructure.com/courses/91147
 [signaling]: https://socialsci.libretexts.org/Bookshelves/Economics/Principles_of_Microeconomics_(Curtis_and_Irvine)/05%3A_The_Factors_of_Production/13%3A_Human_capital_and_the_income_distribution/13.04%3A_Education_as_signalling
 [emrn]: http://rtalbert.org/content/images/2022/04/EMRN-rubric-2020.png
 [mechanism-in-motion]: https://mim-chem.id.ucsb.edu/index.html
@@ -35,7 +33,7 @@ updated: November 23, 2023
 
 Welcome to CHEM 128A! It's great to have you in the course. I'm Dr. Hubert Muchalski, the professor for this course. 
 
-In Organic Chemistry 1 you will learn about structure, properties, and reactivity of organic compounds. Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of structure and reactivity. The billions of organic compounds alone, ranging from polymers to pharmaceuticals, make the field important for study. Yet, organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences, because **organic chemistry enables a molecular understanding of physicochemical phenomena in materials science, the environment, biology, and medicine**. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace and much more remains to be discovered.
+In Organic Chemistry 1 you will learn about structure, properties, and reactivity of organic compounds. Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of structure and reactivity. The billions of organic compounds alone, from amino acids, benzene, and cyclohexane derivatives, to xanthanes, ylides, and zwitterions, make the field important for study. At the same time, organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences, because **organic chemistry enables understanding of cellular machinery of living organisms, physical properties of materials, effects of chemicals on the environment, and how medicines work**. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace and much more remains to be discovered.
 
 ## About this syllabus
 
@@ -43,7 +41,7 @@ This document contains all the information you need to navigate the course. *Rea
 
 + When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, [click here for pictures of dogs in clothes][dogs-in-clothes].
 + Links to all important documents and information can be found on the course [Canvas site][cnvs]
-+ Once the syllabus is finalized, it will be available as a web page on Canvas abd as a printable PDF. After that, the electronic version will be updated as needed. 
++ Once the syllabus is finalized, it will be available as a web page on Canvas and as a printable PDF. After that, the electronic version will be updated as needed. 
 
 ## Course materials and technology
 
@@ -51,13 +49,15 @@ This document contains all the information you need to navigate the course. *Rea
 > This section of the course is part of the Zero Cost Course Materials initiative. The official textbook for the course is is [available free of charge through OpenStax platform][openstax-mcmurry]. 
 > All sections of CHEM 128 are also part of the *Immediate Access program*. All students have access to a digital version of David Klein's _Organic Chemistry_ textbook and associated materials on the first day of class. Students who **do not** wish to purchase the course materials should opt-out before their account is automatically charged on the 10th day of instruction. 
 
-- **Textbook (free).** "Organic Chemistry: A Tenth Edition" by John McMurry accessible online through OpenStax. [Click here to go to OpenStax textbook][openstax-mcmurry]. 
-- **Student response system.** Physical remote (`i>clicker2`) is recommended. You can buy a used one on the internet and sell it at the end of the semester to recover the cost. Alternatively, you can purchase a subscription to iClicker mobile app.  
-- **Canvas.** The central repository for all course materials and information found here: [https://fresnostate.instructure.com/courses/78400][cnvs].
+- **Textbook (free).** "Organic Chemistry: A Tenth Edition" by John McMurry [accessible online through OpenStax][openstax-mcmurry]. 
+- **Student response system.** Physical remote `i>clicker2` (recommended) or subscription to iClicker mobile app. You can buy a used one on the internet and sell it at the end of the semester to recover the cost. If you have difficulty selling your remote, I will buy it from you at the end of the semester. 
 - **Document scanning tool or a tablet with pen input.** Many assignments in this course are handwritten on paper and then uploaded to Canvas as PDF files. A smartphone with a scanning app can be used to convert paper documents into PDFs. There are number of free options available for both iOS and Android. Find one that you like and learn how to use it. Alternatively, you can use a tablet that can capture handwriting and drawings. 
+- **Canvas.** The central repository for all course materials and information found here: [https://fresnostate.instructure.com/courses/91147][cnvs].
 - **Active Fresno State network account.** so that you can access email, Canvas, and Google Suite. If you have any issue with accessing any of the above, please let me know as soon as possible. We will use a variety of additional course tools during the semester and you will be taught how to use them as part of the class.
 - **Textbook (paid, optional).** Fourth edition of David Klein's _"Organic Chemistry"_ textbook with Integrated Study Guide and Solutions Manual published by Wiley (via Immediate Access). This is for students who want additional resources and don't mind paying for a semester-long subscription to access them. 
-  - **Important:** You must opt out or you will be automatically charged for using this resource. 
+
+> [!CAUTION] 
+> You must opt out or you will be automatically charged for using Klein's OChem textbook and WileyPLUS resources. 
 
 ## How to have a good experience in CHEM 128A
 
@@ -102,7 +102,7 @@ At the successful completion of this course, you will be able to:
 - Explain the reasoning behind solutions to problems clearly to an appropriate audience.
 - Connect the ideas of organic chemistry with your own personal and professional interests.
 
-The skills and conceptual knowledge that you'll learn in the course are encapsulated in a list of 14 Learning Targets, six (6) of which are labelled as CORE targets and represent the essential skills that every CHEM 128A student should possess by the end of the course. You can find that list in Appendix A, and it's linked elsewhere on our various course sites.
+The skills and conceptual knowledge that you'll learn in the course are encapsulated in a list of 14 Learning Targets, six (6) of which are labelled as CORE targets and represent the essential skills that every CHEM 128A student should possess by the end of the course. You can find that list in [Appendix A](#appendix-a-list-of-learning-targets), and it's linked elsewhere on our various course sites.
 
 ## Course content and workflow
 
@@ -128,11 +128,11 @@ A typical week could be structured as follows:
 
 ## Types of assessments
 
-The course uses a grading system that emphasizes *growth* and our work will be required to meet certain levels of quality that demonstrate mastery of the material. You will be engaging with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. There are three areas that contribute to your course grade: 
+The course uses a grading system that emphasizes *growth* and your work will be required to meet certain levels of quality that demonstrate mastery of the material. You will be engaging with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. There are three areas that contribute to your course grade: 
 
 - Mastery of basic skills (the craft); 
-- Application of those basic skills (synthesis); and
-- Engagement, effort, and participation. 
+- Application of those basic skills (integration); and
+- Engagement, effort, and participation (community). 
 
 ### Mastery of basic skills
 
@@ -142,16 +142,16 @@ You demonstrate your learning by solving **LT Problems** during Checkpoints, in-
 
 ### Application of skills
 
-Using cooking as analogy, basic skills are used by a chef to prepare a dish or a meal. Similarly, *Integrated Problems* will assess broader range of skills and knowledge that span multiple Learning Targets. Solving integrated problems will require use of multiple basic OChem skills *and* communication skills to compose and convey the answer. 
+Using cooking as analogy, a chef uses their knowledge of ingredients and basic skills to prepare a dish or a meal. Similarly, *Integrated Problems* will assess broader range of skills and knowledge that span multiple Learning Targets. Solving integrated problems will require use of multiple basic OChem skills *and* communication skills to compose and convey the answer. 
 _Integrated Problems_ will be released roughly every other week. The problems may have multiple parts composed of basic and extended practice problems, and harder problems that involve applications. Think of this assignment as a short paper that is evaluated as a whole using a rubric found in the [Standards for Student Work][standards-for-student-work] document. 
 
 ### Engagement
 
-Ongoing engagement with the course is an important part of the learning process. **Class Primers** and **iClicker Credits** are two ways you can earn **Engagement Credits**. 
+Ongoing engagement with the course is an important part of the learning process. **Class Primers** and **iClicker polls** are two ways you can earn **Engagement Credits**. 
 
 **Class Primers** are pre-class assignments designed to give you the basic knowledge of terms, ideas, and basic concepts that will allow us to jump right into applications when we get to class. They involve reading the textbook, asking questions about what you read, and completing _Skill Exercises_. Think of this as _Homework_. 
 
-**iClicker Credits** are earned by participation in polls during class (iClicker Reef). Polls give me real-time feedback and help steer class discussions. They are also my way of encouraging you to attend class meetings. You will receive one credit if you participate in, i.e., give answer to, 75% of questions asked in class session. You should try your best to answer correctly but correctness is not factored into the score, only participation.
+**iClicker Credits** are earned by participation in polls during class. Polls give me real-time feedback and help steer class discussions. They are also my way of encouraging you to attend class meetings. You will receive one credit if you participate in, i.e., give answer to, 75% of questions asked in class session. You should try your best to answer correctly but correctness is not factored into the score, only participation. The number of questions in polls will vary; sometimes only two or three questions. 
 
 
 ## How course final grades are determined
@@ -165,6 +165,8 @@ Your course grade is determined using the table below. In order to earn a partic
 | Learning Targets Mastered | 5   | 7  | 10 | 13 |  
 | Integrated Problems       | N/A | 2  | 5  | 9  |  
 
+### Bottom line
+
 If you master half of the *Learning Targets*, show some evidence of being able to apply the basic skills, and stay reasonably engaged in the class, you can expect to pass the class with a grade of "C". Students who aspire to earn an "A" must master nearly all LTs (including all CORE), consistently show they can apply basic skills to solve _Integrated Problems_, and stay consistently engaged and prepared for class. 
 
 ### Borderline cases
@@ -175,7 +177,7 @@ With nearly 40 students in the class, each on a different path to the final grad
 Higher score in one category cannot be used as argument to "prop-up" insufficient score in another category. For example, earning _Master_ on more LT Problems will not compensate for lower score on Integrated Problems. Also, you don't have to do it all. If you aim for "A", you **do not** have to complete _every_ Learning Target. 
 
 > [!CAUTION] 
-CORE Learning Targets are the most important. Failing to earning _Master_ on all CORE LTs will result in one letter grade reduction (for example from B to C). The numbers for the _Learning Targets_ column refer to the number of LTs for which you earn *Master* rating (shown in Canvas as `2`). Marks of *Proficient* or _Beginner_ do not count. 
+CORE Learning Targets are the most important. Failing to earning _Master_ on all CORE LTs will result in one letter grade reduction (for example from B to C). The numbers for the _Learning Targets_ column refer to the number of LTs for which you earn *Master* rating (shown in Canvas as `2`). Marks of *Proficient* (`1`) or _Beginner_ do not count. 
 
 ## Why I think this is a better approach to grading
 
@@ -192,7 +194,7 @@ As a teacher and learner, I strongly believe that *learning takes time* and that
 
 ## Revisions and reattempts
 
-| Assignment          | Shows on Canvas  | Can be revised? |  
+| Assignment          | Shows on Canvas  | Can be reattempted? |  
 | :------------------ | :--------------- | :-------------- |  
 | Class Primer        | `1` or `0`       | No              |  
 | iClicker Credit     | `1` or `0`       | No              |  
@@ -201,7 +203,7 @@ As a teacher and learner, I strongly believe that *learning takes time* and that
 
 ### Learning Targets
 
-Checkpoints are cumulative. Each Checkpoint contains new LT problems as well as new versions of older ones. If you attempt an LT problem and do not earn _Master_ on it, you can reattempt it at the next Checkpoint. For each Learning target you will have 3-4 opportunities to earn _Master_ rating. Detailed rubrics on how those marks are given can be found in the [Standards for Student Work][standards-for-student-work] document. 
+Each Checkpoint contains new LT problems as well as new versions of older ones. If you attempt an LT problem and do not earn _Master_ on it, you can reattempt it at the next Checkpoint. For each Learning target you will have 3-4 opportunities to earn _Master_ rating. Detailed rubrics on how those marks are given can be found in the [Standards for Student Work][standards-for-student-work] document. 
 
 | Checkpoint      | Date  | Learning Targets | Time alloted |  
 | :-------------- | :---- | :--------------- | :----------- |  
@@ -235,7 +237,7 @@ As mentioned, you will almost certainly find yourself lost, stuck, or confused o
 
 ## Instructor availability and message responses
 
-**You can ask a question about anything at any time.** You have both the right and the responsibility to ask questions about anything in the course you don't fully understand, whether math or some aspect of the syllabus or anything else. You can use email (hmuchalski@mail.fresnostate.edu), office hours, appointments, or grab me before or after class. 
+**You can ask a question about anything at any time.** You have both the right and the responsibility to ask questions about anything in the course you don't fully understand, whether math or some aspect of the syllabus or anything else. You can use email, office hours, appointments, or grab me before or after class. 
 
 However, please note that I cannot always respond immediately to messages. In particular **I do not typically check email between 6:00pm and 8:00am on weeknights**, and **I do not typically check email at all on weekends** in order to prioritize time for family and other non-work pursuits. That said, 
 
@@ -253,25 +255,25 @@ This course  is subject to [Standards of Student Conduct](https://studentaffairs
 
 None of these policies should be necessary because there's no need to be academically dishonest thanks to the revision/resubmission policy. Rather than engage in academic dishonesty and putting your entire career at risk, just turn in your best complete good-faith effort on assignments. And then, if revisions are needed, you'll typically get the chance. The important thing in CHEM 128A is not the grade, it's the understanding and growth you get from engaging in a feedback loop on your work.  
 
-> [!IMPORTANT] TL;DR
+> [!IMPORTANT] TL;DR 
 > When you submit work on an assignment in this class, it must be your ideas and your voice, and not someone else's or those of an AI. Anything else is subject to strong penalties that are required by the university.
 
 Any action or behavior that misrepresents one’s contributions to or the results of any scholarly product submitted for credit, evaluation, or dissemination will be considered academic misconduct. For example:
 
 - *Cheating*: Attempting to use materials, information, or aids that have not been authorized by the instructor for academic work.
-- *Collusion*: Unauthorized collaboration with another person in preparing academic assignments offered for credit, and collaboration with another person to commit a violation of any section of the rules on academic misconduct. **Please note: In MTH 325, generative AI tools such as ChatGPT are included in the definition of "person".**
+- *Collusion*: Unauthorized collaboration with another person in preparing academic assignments offered for credit, and collaboration with another person to commit a violation of any section of the rules on academic misconduct. Generative AI tools such as ChatGPT are included in the definition of "another person".
 - *Dual submission*: Submitting work that has been previously graded, or is being submitted concurrently to more than one course, without authorization from the instructor of the class to which the student wishes to submit. (This especially applies to those who are repeating CHEM 128A.)
 - *Plagiarism*: Appropriation of, buying, receiving as a gift, or obtaining by any means material that is attributable in whole or in part to another source without any indication or citation of the original source, including words, sentences, ideas, illustrations, structure, computer code, and other expression or media, and presenting that material as one’s own academic work being offered for credit or in conjunction with a program, course, or degree requirements.
 
 Please note that this is not a complete list; and note that **enabling others** to engage in academic misconduct is a form of academic misconduct.
 
-In CHEM 128A, when you submit an item for grading, it must represent *your* ideas and be written in *your* voice**, however flawed those may be. Your work cannot significantly consist of ideas or wording from another person or from an AI tool. Specific guidelines for each form of assignment are: 
+In CHEM 128A, when you submit an item for grading, it must represent *your* ideas and be written in *your* voice, however flawed those may be. Your work cannot significantly consist of ideas or wording from another person or from an AI tool. Specific guidelines for each form of assignment are: 
 
 - **Learning Target problems**: These are completed on paper during a class meeting. No collaboration is allowed, and no notes are allowed. 
 - **Integrated Problems**: Sometimes these are extensions of simpler problems that we do in groups during class, and you can use the results of that collaboration. Otherwise, you are allowed to consult with another person or an AI tool, if the issue pertains to **terminology** used in the problem, or very high-level discussions about **what the problem is asking for**. But no collaboration with people or AI is allowed on any question or strategy that involves actually solving the problem. In other words, you cannot ask AI tool to tell you "Howe to solve the problem". 
 - **Class Primer and iClicker**: You're allowed, actually encouraged, to collaborate freely with others on these as long as you are obeying the general rule that the work you turn in is your ideas and your voice. If there is ever an exception, you'll be told in advance. 
 
-I have no interest in creating a police state in your course. But I am obliged to investigate any evidence I perceive in which a student is submitting work that does not faithfully represent their own understanding. This investigation may involve discussions about the work or a request to reproduce the work or something like it, in a face-to-face meeting. 
+I have no interest in creating a police state in my courses. But I am obliged to investigate any evidence I perceive in which a student is submitting work that does not faithfully represent their own understanding. This investigation may involve discussions about the work or a request to reproduce the work or something like it, in a face-to-face meeting. 
 
 You can ask me (Dr. M.) any question you want, about anything, at any time. Getting help from the professor is not academic dishonesty! In case I cannot answer a question because it would reveal spoilers for the solution, I'll tell you so and it will be no big deal. Asking a question will never be held against you. 
 
@@ -281,7 +283,9 @@ Attendance is expected at all class meetings. The pace of the course is such tha
 
 ## Absences
 
-If you must be absent, you do not need prior permission or justification, but a notification will be appreciated. However, *please avoid any non-essential absences* such as skipping class, or scheduling a vacation during a day where class is scheduled. If you miss, you are solely responsible for catching up. Missing a class meeting may also mean missing a Checkpoint. There will be no make-up Checkpoints---if you miss class you can attempt LT problems at the next Checkpoint.
+Student absences (planned, unplanned, and for University-sponsored activities) will be handled according to the [_Policy on Student Absences (APM 232)_][apm232]. 
+
+If you must be absent, you do not need prior permission or justification, but a notification will be appreciated. However, *please avoid any non-essential absences* such as skipping class, or scheduling a vacation during a day where class is scheduled. If you miss, you are solely responsible for catching up. Missing a class meeting may also mean missing a Checkpoint. In most cases, you will have an opportunity to attempt the problem at the next Checkpoint. 
 
 ## Deadlines and late work
 
@@ -310,10 +314,13 @@ In addition to course policies, you are expected to be familiar with Academic Re
 - [Services for Students with Disabilities](http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html)
 - [Academic Integrity](http://fresnostate.edu/studentaffairs/studentconduct/academic-integrity/)
 - [Policy on Cheating and Plagiarism](http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html)
+- [Policy on Student Absences][apm232]
 - [Add/Drop Course](http://fresnostate.edu/studentaffairs/classschedule/registration/add-drop.html)
 
 >[!IMPORTANT]
 > Changes to this syllabus may occur during the term. In those cases, the changes will be highlighted in this document and be announced in class. If appropriate, students will be given a voice on how the changes will be implemented. It is your responsibility stay abreast of the information passed along in course announcements so that you will be aware of any changes that take place.
+
+[apm232]: https://academics.fresnostate.edu/facultyaffairs/documents/apm/232.pdf
 
 # Acknowledgments and attributions
 
@@ -321,7 +328,7 @@ Embarasingly large portions of the language of this syllabus as well as ideas re
 
 # Appendix A: List of Learning Targets
 
-1. (**CORE**) I can deduce bonding information (hybridization, formal charge, geometry, valence, charge polarization) embedded in chemical representations. I can draw Lewis structures compliant with the bond-line (zig-zag, skeletal) convention.
+1. `CORE` I can deduce bonding information (hybridization, formal charge, geometry, valence, charge polarization) embedded in chemical representations. I can draw Lewis structures compliant with the bond-line (zig-zag, skeletal) convention.
 2. I can identify functional groups, condensed formulas, and common alkyl groups. I can convert between different drawing conventions as well as recognize implicit carbons and hydrogens in a structure.
 3. (**CORE**) I can distinguish between localized and delocalized bonding systems. I can draw resonance forms to show electron delocalization and assess their relative contribution to the overall electronic character of the molecule.
 4. (**CORE**) I can rationalize acidity and basicity trends of organic molecules according to the Brønsted–Lowry theory. 
