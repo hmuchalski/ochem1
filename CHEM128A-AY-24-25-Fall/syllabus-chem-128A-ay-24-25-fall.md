@@ -1,9 +1,4 @@
----
-title: "Course Syllabus (CHEM 128A)"
-author: Hubert Muchalski
-updated: August 18, 2024
-# css: https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css
----
+# Course Syllabus: Organic Chemistry (CHEM 128A)
 
 | Course Name           | Organic Chemistry 1 (lecture)                         |  
 | :-------------------- | :---------------------------------------------------- |  
@@ -13,7 +8,7 @@ updated: August 18, 2024
 | Time                  | Monday, Wednesday 2:00-3:15 pm                        |  
 | Location              | Science 2 room 109                                    |  
 | Instructor            | Dr. Hubert Muchalski                                  |  
-| Email                 | <hmuchalski@mail.fresnostate.edu>                     |  
+| Email                 | `hmuchalski@mail.fresnostate.edu`                     |  
 | Office phone          | 559-278-2711                                          |  
 | Office                | Science 1, room 352                                   |  
 | Student support hours | Tue, Thu 4-5 pm and by [appointment][1-on-1-calendar] |  
@@ -38,9 +33,9 @@ In Organic Chemistry 1 you will learn about structure, properties, and reactivit
 
 This document contains all the information you need to navigate the course. *Read it once giving it your full attention*, then search as needed. You use `Ctrl/Cmd+F` to bring up a search field, and then type in the text you are looking for.
 
-+ When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, [click here for pictures of dogs in clothes][dogs-in-clothes].
-+ Links to all important documents and information can be found on the course [Canvas site][cnvs]
-+ Once the syllabus is finalized, it will be available as a web page on Canvas and as a printable PDF. After that, the electronic version will be updated as needed.
+- When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, [click here for pictures of dogs in clothes][dogs-in-clothes].
+- Links to all important documents and information can be found on the course [Canvas site][cnvs]
+- Once the syllabus is finalized, it will be available as a web page on Canvas and as a printable PDF. After that, the electronic version will be updated as needed.
 
 ### Course materials and technology
 
@@ -48,12 +43,12 @@ This document contains all the information you need to navigate the course. *Rea
 > This section of the course is part of the Zero Cost Course Materials initiative. The official textbook for the course is is [available free of charge through OpenStax platform][openstax-mcmurry].
 > All sections of CHEM 128 are also part of the *Immediate Access program*. All students have access to a digital version of David Klein's *Organic Chemistry* textbook and associated materials on the first day of class. Students who **do not** wish to purchase the course materials should opt-out before their account is automatically charged on the 10th day of instruction.
 
-+ **Textbook (free).** "Organic Chemistry: A Tenth Edition" by John McMurry [accessible online through OpenStax][openstax-mcmurry].
-+ **Student response system.** Physical remote `i>clicker2` (recommended) or subscription to iClicker mobile app. You can buy a used one on the internet and sell it at the end of the semester to recover the cost. If you have difficulty selling your remote, I will buy it from you at the end of the semester.
-+ **Document scanning tool or a tablet with pen input.** Many assignments in this course are handwritten on paper and then uploaded to Canvas as PDF files. A smartphone with a scanning app can be used to convert paper documents into PDFs. There are number of free options available for both iOS and Android. Find one that you like and learn how to use it. Alternatively, you can use a tablet that can capture handwriting and drawings.
-+ **Canvas.** The central repository for all course materials and information found here: [https://fresnostate.instructure.com/courses/91147][cnvs].
-+ **Active Fresno State network account.** so that you can access email, Canvas, and Google Suite. If you have any issue with accessing any of the above, please let me know as soon as possible. We will use a variety of additional course tools during the semester and you will be taught how to use them as part of the class.
-+ **Textbook (paid, optional).** Fourth edition of David Klein's *"Organic Chemistry"* textbook with Integrated Study Guide and Solutions Manual published by Wiley (via Immediate Access). This is for students who want additional resources and don't mind paying for a semester-long subscription to access them.
+- **Textbook (free).** "Organic Chemistry: A Tenth Edition" by John McMurry [accessible online through OpenStax][openstax-mcmurry].
+- **Student response system.** Physical remote `i>clicker2` (recommended) or subscription to iClicker mobile app. You can buy a used one on the internet and sell it at the end of the semester to recover the cost. If you have difficulty selling your remote, I will buy it from you at the end of the semester.
+- **Document scanning tool or a tablet with pen input.** Many assignments in this course are handwritten on paper and then uploaded to Canvas as PDF files. A smartphone with a scanning app can be used to convert paper documents into PDFs. There are number of free options available for both iOS and Android. Find one that you like and learn how to use it. Alternatively, you can use a tablet that can capture handwriting and drawings.
+- **Canvas.** The central repository for all course materials and information found here: [https://fresnostate.instructure.com/courses/91147][cnvs].
+- **Active Fresno State network account.** so that you can access email, Canvas, and Google Suite. If you have any issue with accessing any of the above, please let me know as soon as possible. We will use a variety of additional course tools during the semester and you will be taught how to use them as part of the class.
+- **Textbook (paid, optional).** Fourth edition of David Klein's *"Organic Chemistry"* textbook with Integrated Study Guide and Solutions Manual published by Wiley (via Immediate Access). This is for students who want additional resources and don't mind paying for a semester-long subscription to access them.
 
 > [!CAUTION]
 > You must opt out or you will be automatically charged for using Klein's OChem textbook and WileyPLUS resources.
@@ -68,11 +63,11 @@ Organic chemistry has poor reputation among college students because it is hard 
 
 In this course you can expect:
 
-+ A learning environment that is challenging but also supportive of the learning process.
-+ Transparent grading practices that prioritize growth.
-+ Course content that compounds over time and concepts that are recurring throughout the semester.
-+ Solicitations for your feedback that are taken seriously.
-+ Respect for you as a human who is here to learn.
+- A learning environment that is challenging but also supportive of the learning process.
+- Transparent grading practices that prioritize growth.
+- Course content that compounds over time and concepts that are recurring throughout the semester.
+- Solicitations for your feedback that are taken seriously.
+- Respect for you as a human who is here to learn.
 
 I firmly believe that success in CHEM 128A is possible for every student but it is not effortless. On your end, your success in the course depends on three things:
 
@@ -92,14 +87,14 @@ The goal of this course is to illustrate that by understanding the principles of
 
 At the successful completion of this course, you will be able to:
 
-+ Use common drawing and naming conventions to represent the structure and properties of organic molecules.
-+ Explain macroscopic physical properties of compounds using molecule-level phenomena (polarity and intermolecular forces).
-+ Use curved arrow notation to draw mechanisms of chemical transformations.
-+ Analyze chemical structures and reactions to make predictions about chemical processes.
-+ Predict products of chemical reactions.
-+ Propose a synthesis of an organic molecule.
-+ Explain the reasoning behind solutions to problems clearly to an appropriate audience.
-+ Connect the ideas of organic chemistry with your own personal and professional interests.
+- Use common drawing and naming conventions to represent the structure and properties of organic molecules.
+- Explain macroscopic physical properties of compounds using molecule-level phenomena (polarity and intermolecular forces).
+- Use curved arrow notation to draw mechanisms of chemical transformations.
+- Analyze chemical structures and reactions to make predictions about chemical processes.
+- Predict products of chemical reactions.
+- Propose a synthesis of an organic molecule.
+- Explain the reasoning behind solutions to problems clearly to an appropriate audience.
+- Connect the ideas of organic chemistry with your own personal and professional interests.
 
 The skills and conceptual knowledge that you'll learn in the course are encapsulated in a list of 14 Learning Targets, six (6) of which are labelled as CORE targets and represent the essential skills that every CHEM 128A student should possess by the end of the course. You can find that list in [Appendix A](#appendix-a-list-of-learning-targets), and it's linked elsewhere on our various course sites.
 
@@ -129,9 +124,9 @@ A typical week could be structured as follows:
 
 The course uses a grading system that emphasizes *growth* and your work will be required to meet certain levels of quality that demonstrate mastery of the material. You will be engaging with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. There are three areas that contribute to your course grade:
 
-+ Mastery of basic skills (the craft);
-+ Application of those basic skills (integration); and
-+ Engagement, effort, and participation (community).
+- Mastery of basic skills (the craft);
+- Application of those basic skills (integration); and
+- Engagement, effort, and participation (community).
 
 #### Mastery of basic skills
 
@@ -180,10 +175,10 @@ CORE Learning Targets are the most important. Failing to earning *Master* on all
 
 The grading system outlined above may be unusual, but in my view has several advantages:
 
-+ Many assignments can be revised or reattempted if you need to improve your work ([see the next section below](#revisions-and-reattempts)), and once you have demonstrated *Mastery* on a *Learning Target*, *Integrated Problem*, you do not have to revisit it again in the course. It's possible that if you do well on the Checkpoints, you will only need to work a fraction of the final exam. Many times, students just opt out of the final altogether if they have strong performances throughout the semester.
-+ If you're off to a shaky start and your marks early in the semester are poor, you have time to practice and improve and past results don't hurt your final grade.
-+ The final letter grade is like a score in a video game---it stay the same or goes up.
-+ Points, statistics, and unethical approaches such as grading on a curve are not involved. Your grade is tracked with a checklist.
+- Many assignments can be revised or reattempted if you need to improve your work ([see the next section below](#revisions-and-reattempts)), and once you have demonstrated *Mastery* on a *Learning Target*, *Integrated Problem*, you do not have to revisit it again in the course. It's possible that if you do well on the Checkpoints, you will only need to work a fraction of the final exam. Many times, students just opt out of the final altogether if they have strong performances throughout the semester.
+- If you're off to a shaky start and your marks early in the semester are poor, you have time to practice and improve and past results don't hurt your final grade.
+- The final letter grade is like a score in a video game---it stay the same or goes up.
+- Points, statistics, and unethical approaches such as grading on a curve are not involved. Your grade is tracked with a checklist.
 
 The main downside of this grading system is that it can be complicated and convoluted. The section about grading is by far the longest part of this syllabus. In my experience, however, most students "get it" after a few weeks, and I am always happy to clarify the situation.
 
@@ -222,9 +217,9 @@ You can revise and resubmit each Integrated Problem once (total of two attempts)
 
 Integrated Problems will come with a deadline for initial submissions. You must submit a complete, good-faith effort on the assignment prior to the deadline in order to be eligible to revise or resubmit it. Examples of situations where revision would not be allowed include the following:
 
-+ The assignment is not submitted at all before the deadline (In other words you cannot "revise" an assignment you did not turn in).
-+ The assignment is submitted but some parts of the problem are skipped or omitted either partially or entirely, or includes responses saying something like "I didn't know how to do this part" but no significant attempt at a solution.
-+ The assignment is submitted but the work has significant issues or errors throughout. This usually occurs when it is difficult to tell if there is any understanding of the concepts.
+- The assignment is not submitted at all before the deadline (In other words you cannot "revise" an assignment you did not turn in).
+- The assignment is submitted but some parts of the problem are skipped or omitted either partially or entirely, or includes responses saying something like "I didn't know how to do this part" but no significant attempt at a solution.
+- The assignment is submitted but the work has significant issues or errors throughout. This usually occurs when it is difficult to tell if there is any understanding of the concepts.
 
 Revisions of Integrated Problems sets also have a deadline. No revisions are accepted past that deadline. No revisions or reattempts on any item are allowed after 11:59 pm PT on Sunday, December 8. This is the beginning of the last week of classes, and no revisions or reattempts are allowed after that point so that the queue of items to grade can be cleared prior to the finals week.
 
@@ -232,9 +227,9 @@ Revisions of Integrated Problems sets also have a deadline. No revisions are acc
 
 As mentioned, you will almost certainly find yourself lost, stuck, or confused on *something* in this course at some point. This is not a defect in your character or intelligence; it's a sign you are being challenged, and you can turn that challenge into real growth by **seeking out help as soon as you need it**. Make every effort to get yourself unstuck and resolve your questions on your own first. But then:
 
-+ **Attend office hours and ask questions there.**  No appointment needed.
-+ [Schedule an appointment through Google Calendar][1-on-1-calendar] if drop-in hours don't work for you.
-+ **Work with a classmate** as long as you're staying within bounds on academic honesty above. In particular, working in groups on Class Primer is a very good idea and will help keep you from getting stuck at the beginning of a new concept.
+- **Attend office hours and ask questions there.**  No appointment needed.
+- [Schedule an appointment through Google Calendar][1-on-1-calendar] if drop-in hours don't work for you.
+- **Work with a classmate** as long as you're staying within bounds on academic honesty above. In particular, working in groups on Class Primer is a very good idea and will help keep you from getting stuck at the beginning of a new concept.
 
 ## Instructor availability and message responses
 
@@ -242,9 +237,9 @@ As mentioned, you will almost certainly find yourself lost, stuck, or confused o
 
 However, please note that I cannot always respond immediately to messages. In particular **I do not typically check email between 6:00pm and 8:00am on weeknights**, and **I do not typically check email at all on weekends** in order to prioritize time for family and other non-work pursuits. That said,
 
-+ Messages sent on a weekday (Monday-Friday) before 3:00 pm will likely get a response *the same day*.
-+ Messages sent after 3:00 pm Monday-Thursday will get a response *the next day*.
-+ Messages sent after 3:00 pm on Fridays or on the weekend will get a response *the following Monday*.
+- Messages sent on a weekday (Monday-Friday) before 3:00 pm will likely get a response *the same day*.
+- Messages sent after 3:00 pm Monday-Thursday will get a response *the next day*.
+- Messages sent after 3:00 pm on Fridays or on the weekend will get a response *the following Monday*.
 
 **Please plan ahead for instructor availability.** For example if you have something to turn in on a Friday, and you send a question by email after 3:00pm, my reply may not come in time to help you; plan ahead for contingencies like this.
 
@@ -261,18 +256,18 @@ None of these policies should be necessary because there's no need to be academi
 
 Any action or behavior that misrepresents one’s contributions to or the results of any scholarly product submitted for credit, evaluation, or dissemination will be considered academic misconduct. For example:
 
-+ *Cheating*: Attempting to use materials, information, or aids that have not been authorized by the instructor for academic work.
-+ *Collusion*: Unauthorized collaboration with another person in preparing academic assignments offered for credit, and collaboration with another person to commit a violation of any section of the rules on academic misconduct. Generative AI tools such as ChatGPT are included in the definition of "another person".
-+ *Dual submission*: Submitting work that has been previously graded, or is being submitted concurrently to more than one course, without authorization from the instructor of the class to which the student wishes to submit. (This especially applies to those who are repeating CHEM 128A.)
-+ *Plagiarism*: Appropriation of, buying, receiving as a gift, or obtaining by any means material that is attributable in whole or in part to another source without any indication or citation of the original source, including words, sentences, ideas, illustrations, structure, computer code, and other expression or media, and presenting that material as one’s own academic work being offered for credit or in conjunction with a program, course, or degree requirements.
+- *Cheating*: Attempting to use materials, information, or aids that have not been authorized by the instructor for academic work.
+- *Collusion*: Unauthorized collaboration with another person in preparing academic assignments offered for credit, and collaboration with another person to commit a violation of any section of the rules on academic misconduct. Generative AI tools such as ChatGPT are included in the definition of "another person".
+- *Dual submission*: Submitting work that has been previously graded, or is being submitted concurrently to more than one course, without authorization from the instructor of the class to which the student wishes to submit. (This especially applies to those who are repeating CHEM 128A.)
+- *Plagiarism*: Appropriation of, buying, receiving as a gift, or obtaining by any means material that is attributable in whole or in part to another source without any indication or citation of the original source, including words, sentences, ideas, illustrations, structure, computer code, and other expression or media, and presenting that material as one’s own academic work being offered for credit or in conjunction with a program, course, or degree requirements.
 
 Please note that this is not a complete list; and note that **enabling others** to engage in academic misconduct is a form of academic misconduct.
 
 In CHEM 128A, when you submit an item for grading, it must represent *your* ideas and be written in *your* voice, however flawed those may be. Your work cannot significantly consist of ideas or wording from another person or from an AI tool. Specific guidelines for each form of assignment are:
 
-+ **Learning Target problems**: These are completed on paper during a class meeting. No collaboration is allowed, and no notes are allowed.
-+ **Integrated Problems**: Sometimes these are extensions of simpler problems that we do in groups during class, and you can use the results of that collaboration. Otherwise, you are allowed to consult with another person or an AI tool, if the issue pertains to **terminology** used in the problem, or very high-level discussions about **what the problem is asking for**. But no collaboration with people or AI is allowed on any question or strategy that involves actually solving the problem. In other words, you cannot ask AI tool to tell you "Howe to solve the problem".
-+ **Class Primer and iClicker**: You're allowed, actually encouraged, to collaborate freely with others on these as long as you are obeying the general rule that the work you turn in is your ideas and your voice. If there is ever an exception, you'll be told in advance.
+- **Learning Target problems**: These are completed on paper during a class meeting. No collaboration is allowed, and no notes are allowed.
+- **Integrated Problems**: Sometimes these are extensions of simpler problems that we do in groups during class, and you can use the results of that collaboration. Otherwise, you are allowed to consult with another person or an AI tool, if the issue pertains to **terminology** used in the problem, or very high-level discussions about **what the problem is asking for**. But no collaboration with people or AI is allowed on any question or strategy that involves actually solving the problem. In other words, you cannot ask AI tool to tell you "Howe to solve the problem".
+- **Class Primer and iClicker**: You're allowed, actually encouraged, to collaborate freely with others on these as long as you are obeying the general rule that the work you turn in is your ideas and your voice. If there is ever an exception, you'll be told in advance.
 
 I have no interest in creating a police state in my courses. But I am obliged to investigate any evidence I perceive in which a student is submitting work that does not faithfully represent their own understanding. This investigation may involve discussions about the work or a request to reproduce the work or something like it, in a face-to-face meeting.
 
@@ -310,13 +305,13 @@ A *serious and compelling reason* is defined as an unexpected condition that is 
 
 In addition to course policies, you are expected to be familiar with Academic Regulations described in the [University Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as well as policies listed below.
 
-+ [Class Schedule Policies](http://fresnostate.edu/studentaffairs/classschedule/policy/)
-+ [Copyright Policy](http://libguides.csufresno.edu/copyright)
-+ [Services for Students with Disabilities](http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html)
-+ [Academic Integrity](http://fresnostate.edu/studentaffairs/studentconduct/academic-integrity/)
-+ [Policy on Cheating and Plagiarism](http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html)
-+ [Policy on Student Absences][apm232]
-+ [Add/Drop Course](http://fresnostate.edu/studentaffairs/classschedule/registration/add-drop.html)
+- [Class Schedule Policies](http://fresnostate.edu/studentaffairs/classschedule/policy/)
+- [Copyright Policy](http://libguides.csufresno.edu/copyright)
+- [Services for Students with Disabilities](http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html)
+- [Academic Integrity](http://fresnostate.edu/studentaffairs/studentconduct/academic-integrity/)
+- [Policy on Cheating and Plagiarism](http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html)
+- [Policy on Student Absences][apm232]
+- [Add/Drop Course](http://fresnostate.edu/studentaffairs/classschedule/registration/add-drop.html)
 
 >[!IMPORTANT]
 > Changes to this syllabus may occur during the term. In those cases, the changes will be highlighted in this document and be announced in class. If appropriate, students will be given a voice on how the changes will be implemented. It is your responsibility stay abreast of the information passed along in course announcements so that you will be aware of any changes that take place.
