@@ -16,7 +16,7 @@
 <!-- Reference URLs -->
 [dogs-in-clothes]: https://start.duckduckgo.com/?q=dogs+wearing+clothes&iar=images&iax=images&ia=images&kp=1
 [1-on-1-calendar]: https://calendar.app.google/89WXddVpYZ5YwzMD6
-[standards-for-student-work]: https://github.com/hmuchalski/ochem1/blob/main/CHEM128A-AY23-24-Fall/standards-for-student-work.md
+[standards-for-student-work]: https://github.com/hmuchalski/ochem1/blob/main/CHEM128A-AY-24-25-Fall/standards-for-student-work.md
 [cnvs]: https://fresnostate.instructure.com/courses/91147
 [signaling]: https://socialsci.libretexts.org/Bookshelves/Economics/Principles_of_Microeconomics_(Curtis_and_Irvine)/05%3A_The_Factors_of_Production/13%3A_Human_capital_and_the_income_distribution/13.04%3A_Education_as_signalling
 [openstax-mcmurry]: https://openstax.org/books/organic-chemistry/pages/dedication-and-preface
@@ -162,14 +162,15 @@ Your course grade is determined using the table below. In order to earn a partic
 
 If you master half of the *Learning Targets*, show some evidence of being able to apply the basic skills, and stay reasonably engaged in the class, you can expect to pass the class with a grade of "C". Students who aspire to earn an "A" must master nearly all LTs (including all CORE), consistently show they can apply basic skills to solve *Integrated Problems*, and stay consistently engaged and prepared for class.
 
+> [!CAUTION]
+CORE Learning Targets are the most important. Failing to earning *Master* on all `CORE` LTs will result in one letter grade reduction (for example from B to C). The numbers for the *Learning Targets* column refer to the number of LTs for which you earn *Master* rating (shown in Canvas as `2`). Marks of *Proficient* (`1`) or *Beginner* **do not count**.
+
 #### Borderline cases
 
 With nearly 40 students in the class, each on a different path to the final grade, it sometimes happens that a student completes almost all requirements (all except for one). I will use my professional judgment and look at the student's engagement and effort and leave an option of assigning a grade that is higher (but never lower) than the syllabus indicates. Therefore, it is to your benefit to show that you are engaged and invested in achieving learning objectives of the course.
 
 > [!IMPORTANT]
-Higher score in one category cannot be used as argument to "prop-up" insufficient score in another category. For example, earning *Master* on more LT Problems will not compensate for lower score on Integrated Problems. Also, you don't have to do it all. If you aim for "A", you **do not** have to complete *every* Learning Target.
-> [!CAUTION]
-CORE Learning Targets are the most important. Failing to earning *Master* on all CORE LTs will result in one letter grade reduction (for example from B to C). The numbers for the *Learning Targets* column refer to the number of LTs for which you earn *Master* rating (shown in Canvas as `2`). Marks of *Proficient* (`1`) or *Beginner* do not count.
+> Higher score in one category cannot be used as argument to "prop-up" insufficient score in another category. For example, earning *Master* on more LT Problems will not compensate for lower score on Integrated Problems. Also, you don't have to do it all. If you aim for "A", you **do not** have to complete *every* Learning Target.
 
 ### Why I think this is a better approach to grading
 
@@ -320,7 +321,7 @@ In addition to course policies, you are expected to be familiar with Academic Re
 
 ## Acknowledgments and attributions
 
-Embarasingly large portions of the language of this syllabus as well as ideas related to growth grading and flipped learning are influenced by work and writing of of [Prof. Robert Talbert and Prof. David Clark](https://gradingforgrowth.com/), mathematics faculty at Grand Valley State University.
+Embarrassingly large portions of the language of this syllabus as well as ideas related to growth grading and flipped learning are influenced by work and writing of of [Prof. Robert Talbert and Prof. David Clark](https://gradingforgrowth.com/), mathematics faculty at Grand Valley State University.
 
 ## Appendix A: List of Learning Targets
 
