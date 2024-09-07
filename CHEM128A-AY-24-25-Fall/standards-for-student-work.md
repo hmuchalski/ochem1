@@ -50,7 +50,7 @@ Each Learning Target problem has its own set of criteria for success listed on t
 - **Beginner** mark is given when the problem has been attempted, but the solution contains multiple significant errors or is presented without sufficient explanation. Shows in Canvas as `0`
 
 > [!NOTE]
-> It is not enough just to get right answers. You must also provide a clear explanation for your answers. Your goal on a LT Problem is to provide sufficient evidence that you have mastered the concept in the problem. It is not to your advantage to withhold any such evidence or expect that I will infer what you had in mind when you produced the solution. So provide clear chemical steps and a brief but clear English explanation in order to give sufficient evidence to warrant a **Master** grade.
+> It is not enough just to get right answers. For many LT problems you must also provide a commentary or an explanation for your choices. Your goal on a LT Problem is to provide sufficient evidence that you have mastered the concept in the problem. It is not to your advantage to withhold any such evidence or expect that I will infer what you had in mind when you produced the solution. So provide clear chemical steps and a brief but clear English explanation in order to give sufficient evidence to warrant a **Master** mark.
 
 ## Standards for Integrated Problems
 
@@ -84,4 +84,10 @@ When English is used, the language should be simple (not peppered with jargon), 
 
 ### Professional presentation
 
-The paper should look good. This is the reason why Integrated Problems lookought to be typed up on a computer. Chemical structures can be drawn by hand or with ChemDraw and embedded into the document. It is possible, but quite difficult for beginners, to draw reaction mechanisms using ChemDraw. When reaction mechanism is a part of the solution, it can be drawn by hand on paper and then digitized.
+The paper should look good. The answer can be typed or handwritten. Most students choose to type the text and leave blank space for the drawings to be added later. This helps when the work needs to be revised.
+
+If you choose to write everything by hand, make sure it is legible. However, revisions of handwritten work will require a new entry. Erasing errors or adding content into the previously submitted handwritten work will not look good. And the paper should look good and be easy for the reader to navigate.
+
+All drawings of structures, reactions, and mechanisms must be drawn by the author and not images from the internet. Most students choose to draw structures, reactions, mechanisms, and diagrams by hand. 
+
+Alternatively, structures can be created with software such as ChemDraw or ChemDoodle and embedded into the document. A license to ChemDraw is available for students in the CSM (ask Dr. M. for details) but most beginners find it difficult to use.
