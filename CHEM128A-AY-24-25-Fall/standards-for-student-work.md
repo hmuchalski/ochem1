@@ -36,7 +36,7 @@ Class Primers are assignments done prior to the class meeting. You get credit fo
 - **Success** mark is given when the work is submitted by the deadline and every item that is not marked "Optional" has a complete and good-faith response.
 - **Incomplete** mark is given when the work is not turned on time; or there at least one non-optional item left unanswered (even if accidental) or has a response indicating insufficient effort.
 
-> [!NOTE] Notes
+> [!NOTE]
 >
 > - Correct answers are not required on Class Primers, only a complete good faith effort to answer all the required items and timeliness. One of the reasons we do Class Primers is to surface any misconceptions or errors in thinking that you might be having at the beginning of a new topic, so we can work on those in class. Honest mistakes are welcome.
 > - Giving a response like "I don't know", "I don't understand", etc. will be treated as blank responses and will be marked as incomplete.
@@ -49,7 +49,7 @@ Each Learning Target problem has its own set of criteria for success listed on t
 - **Proficient** mark is given when partial evidence of understanding of the concepts is shown from the work. Either there is one or more significant error, or an answer that appears with insufficient explanation. Shows in Canvas as `1`
 - **Beginner** mark is given when the problem has been attempted, but the solution contains multiple significant errors or is presented without sufficient explanation. Shows in Canvas as `0`
 
-> [!NOTE] Reminder
+> [!NOTE]
 > It is not enough just to get right answers. You must also provide a clear explanation for your answers. Your goal on a LT Problem is to provide sufficient evidence that you have mastered the concept in the problem. It is not to your advantage to withhold any such evidence or expect that I will infer what you had in mind when you produced the solution. So provide clear chemical steps and a brief but clear English explanation in order to give sufficient evidence to warrant a **Master** grade.
 
 ## Standards for Integrated Problems
