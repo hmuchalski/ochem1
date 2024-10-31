@@ -204,12 +204,12 @@ Each Checkpoint contains new LT problems as well as new versions of older ones. 
 
 | Checkpoint      | Date  | Learning Targets | Time alloted |  
 | :-------------- | :---- | :--------------- | :----------- |  
-| Mini Checkpoint | 9/4   | 1-3              | 30 min       |  
-| Checkpoint 1    | 9/18  | 1-5              | 45 min       |  
-| Checkpoint 2    | 10/9  | 1-8              | 60 min       |  
-| Mini Checkpoint | 10/23 | 7-10             | 30 min       |  
-| Checkpoint 3    | 11/13 | 1-13             | 75 min       |  
-| Checkpoint 4    | 12/04 | 4-14             | 75 min       |  
+| Checkpoint 1    | 9/4   | 1-3              | 30 min       |  
+| Checkpoint 2    | 9/18  | 1-5              | 45 min       |  
+| Checkpoint 3    | 10/9  | 1-8              | 60 min       |  
+| Checkpoint 4    | 10/23 | 6-10             | 30 min       |  
+| Checkpoint 5    | 11/13 | 1-13             | 75 min       |  
+| Checkpoint 6    | 12/11 | 4-14             | 75 min       |  
 | Final Exam      | 12/18 | 1-14             | 75 min       |  
 
 #### Integrated Problems
