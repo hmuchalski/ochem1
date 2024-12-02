@@ -156,7 +156,7 @@ Your course grade is determined using the table below. In order to earn a partic
 | Class Primers             | 8   | 12 | 16 | 20 |  
 | iClicker Credits          | 8   | 12 | 16 | 20 |  
 | Learning Targets Mastered | 5   | 7  | 10 | 13 |  
-| Integrated Problems       | N/A | 2  | 5  | 9  |  
+| Integrated Problems       | N/A | 1  | 4  | 8  |  
 
 #### Bottom line
 
@@ -202,7 +202,7 @@ Canvas developers insist that assignments have point value which goes against my
 
 Each Checkpoint contains new LT problems as well as new versions of older ones. If you attempt an LT problem and do not earn *Master* on it, you can reattempt it at the next Checkpoint. For each Learning target you will have 3-4 opportunities to earn *Master* rating. Detailed rubrics on how those marks are given can be found in the [Standards for Student Work][standards-for-student-work] document.
 
-| Checkpoint      | Date  | Learning Targets | Time alloted |  
+| Checkpoint      | Date  | Learning Targets | Time allotted |  
 | :-------------- | :---- | :--------------- | :----------- |  
 | Checkpoint 1    | 9/4   | 1-3              | 30 min       |  
 | Checkpoint 2    | 9/18  | 1-5              | 45 min       |  
