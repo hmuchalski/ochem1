@@ -1,0 +1,902 @@
+<h1 id="course-syllabus-organic-chemistry-chem-128a">Course Syllabus:
+Organic Chemistry (CHEM 128A)</h1>
+<table class="ic-Table ic-Table--condensed ic-Table--striped ic-Table--hover-row" style="width: 600px;">
+<colgroup>
+<col style="width: 28%" />
+<col style="width: 71%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Organic Chemistry 1 (lecture)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Semester</td>
+<td style="text-align: left;">AY 24–25 Fall</td>
+</tr>
+<tr>
+<td style="text-align: left;">Units</td>
+<td style="text-align: left;">3</td>
+</tr>
+<tr>
+<td style="text-align: left;">Department</td>
+<td style="text-align: left;">Chemistry and Biochemistry</td>
+</tr>
+<tr>
+<td style="text-align: left;">Time</td>
+<td style="text-align: left;">Monday, Wednesday 2:00-3:15 pm</td>
+</tr>
+<tr>
+<td style="text-align: left;">Location</td>
+<td style="text-align: left;">Science 2 room 109</td>
+</tr>
+<tr>
+<td style="text-align: left;">Instructor</td>
+<td style="text-align: left;">Dr. Hubert Muchalski</td>
+</tr>
+<tr>
+<td style="text-align: left;">Email</td>
+<td
+style="text-align: left;"><code>hmuchalski@mail.fresnostate.edu</code></td>
+</tr>
+<tr>
+<td style="text-align: left;">Office phone</td>
+<td style="text-align: left;">559-278-2711</td>
+</tr>
+<tr>
+<td style="text-align: left;">Office</td>
+<td style="text-align: left;">Science 1, room 352</td>
+</tr>
+<tr>
+<td style="text-align: left;">Student support hours</td>
+<td style="text-align: left;">Tue, Thu 4-5 pm and by <a
+href="https://calendar.app.google/89WXddVpYZ5YwzMD6">appointment</a></td>
+</tr>
+</tbody>
+</table>
+<!-- Reference URLs -->
+<!-- [emrn]: http://rtalbert.org/content/images/2022/04/EMRN-rubric-2020.png
+[mechanism-in-motion]: https://mim-chem.id.ucsb.edu/index.html -->
+<h2 id="introduction">Introduction</h2>
+<p>Welcome to CHEM 128A! It's great to have you in the course. I'm
+Dr. Hubert Muchalski, the professor for this course.</p>
+<p>In Organic Chemistry 1 you will learn about structure, properties,
+and reactivity of organic compounds. Carbon-based molecules are central
+to a host of chemical and biological processes because of their broad
+range of structure and reactivity. The billions of organic compounds
+alone, from amino acids, benzene, and cyclohexane derivatives, to
+xanthanes, ylides, and zwitterions, make the field important for study.
+At the same time, organic chemistry is also a highly integrated
+discipline that impacts and is impacted by the other branches of
+chemistry and other sciences, because <strong>organic chemistry enables
+understanding of cellular machinery of living organisms, physical
+properties of materials, effects of chemicals on the environment, and
+how medicines work</strong>. Because the field has reached a high level
+of integration with these areas, progress in organic chemistry continues
+at a fast pace and much more remains to be discovered.</p>
+<h3 id="about-this-syllabus">About this syllabus</h3>
+<p>This document contains all the information you need to navigate the
+course. <em>Read it once giving it your full attention</em>, then search
+as needed. You use <code>Ctrl/Cmd+F</code> to bring up a search field,
+and then type in the text you are looking for.</p>
+<ul>
+<li>When you see blue- or purple-underlined text in the syllabus or any
+other document, it's a clickable link. For example, <a
+href="https://start.duckduckgo.com/?q=dogs+wearing+clothes&amp;iar=images&amp;iax=images&amp;ia=images&amp;kp=1">click
+here for pictures of dogs in clothes</a>.</li>
+<li>Links to all important documents and information can be found on the
+course <a
+href="https://fresnostate.instructure.com/courses/91147">Canvas
+site</a></li>
+<li>Once the syllabus is finalized, it will be available as a web page
+on Canvas and as a printable PDF. After that, the electronic version
+will be updated as needed.</li>
+</ul>
+<h3 id="course-materials-and-technology">Course materials and
+technology</h3>
+<blockquote>
+<p>[!NOTE] This section of the course is part of the Zero Cost Course
+Materials initiative. The official textbook for the course is is <a
+href="https://openstax.org/books/organic-chemistry/pages/dedication-and-preface">available
+free of charge through OpenStax platform</a>. All sections of CHEM 128
+are also part of the <em>Immediate Access program</em>. All students
+have access to a digital version of David Klein's <em>Organic
+Chemistry</em> textbook and associated materials on the first day of
+class. Students who <strong>do not</strong> wish to purchase the course
+materials should opt-out before their account is automatically charged
+on the 10th day of instruction.</p>
+</blockquote>
+<ul>
+<li><strong>Textbook (free).</strong> “Organic Chemistry: A Tenth
+Edition” by John McMurry <a
+href="https://openstax.org/books/organic-chemistry/pages/dedication-and-preface">accessible
+online through OpenStax</a>.</li>
+<li><strong>Student response system.</strong> Physical remote
+<code>i&gt;clicker2</code> (recommended) or subscription to iClicker
+mobile app. You can buy a used one on the internet and sell it at the
+end of the semester to recover the cost. If you have difficulty selling
+your remote, I will buy it from you at the end of the semester.</li>
+<li><strong>Document scanning tool or a tablet with pen input.</strong>
+Many assignments in this course are handwritten on paper and then
+uploaded to Canvas as PDF files. A smartphone with a scanning app can be
+used to convert paper documents into PDFs. There are number of free
+options available for both iOS and Android. Find one that you like and
+learn how to use it. Alternatively, you can use a tablet that can
+capture handwriting and drawings.</li>
+<li><strong>Canvas.</strong> The central repository for all course
+materials and information found here: <a
+href="https://fresnostate.instructure.com/courses/91147">https://fresnostate.instructure.com/courses/91147</a>.</li>
+<li><strong>Active Fresno State network account.</strong> so that you
+can access email, Canvas, and Google Suite. If you have any issue with
+accessing any of the above, please let me know as soon as possible. We
+will use a variety of additional course tools during the semester and
+you will be taught how to use them as part of the class.</li>
+<li><strong>Textbook (paid, optional).</strong> Fourth edition of David
+Klein's <em>“Organic Chemistry”</em> textbook with Integrated Study
+Guide and Solutions Manual published by Wiley (via Immediate Access).
+This is for students who want additional resources and don't mind paying
+for a semester-long subscription to access them.</li>
+</ul>
+<blockquote>
+<p>[!CAUTION] You must opt out or you will be automatically charged for
+using Klein's OChem textbook and WileyPLUS resources.</p>
+</blockquote>
+<h3 id="how-to-have-a-good-experience-in-chem-128a">How to have a good
+experience in CHEM 128A</h3>
+<blockquote>
+<p>“Learning is not fun. Knowledge is fun but learning is discouraging,
+uncomfortable, and hard.”</p>
+<p>– Unknown source</p>
+</blockquote>
+<p>Organic chemistry has poor reputation among college students because
+it is hard and demands lots of work. Success in the course depends on
+your willingness to try things that might not work the first time, and
+the ability to improve using feedback. I am committed to provide
+learning environment where students can construct their knowledge of
+organic chemistry and grow safely and productively.</p>
+<p>In this course you can expect:</p>
+<ul>
+<li>A learning environment that is challenging but also supportive of
+the learning process.</li>
+<li>Transparent grading practices that prioritize growth.</li>
+<li>Course content that compounds over time and concepts that are
+recurring throughout the semester.</li>
+<li>Solicitations for your feedback that are taken seriously.</li>
+<li>Respect for you as a human who is here to learn.</li>
+</ul>
+<p>I firmly believe that success in CHEM 128A is possible for every
+student but it is not effortless. On your end, your success in the
+course depends on three things:</p>
+<ol type="1">
+<li><strong>Active engagement during class time.</strong> The best way
+to learn anything is to be an active participant in the process.
+Students who approach the class with a passive mindset typically
+struggle, and often fail. Those who approach it with an active mindset,
+on the other hand, often surprise themselves with how much and how well
+they learn. Make it a priority not to just attend and take notes, but
+learn by doing.</li>
+<li><strong>Asking questions.</strong> The material in CHEM 128A is
+challenging, and you will almost certainly be confused on a regular
+basis. When you recognize that you are confused or stuck, remember that
+<strong>it is a expected during a meaningful learning process.</strong>
+Waiting for things to make sense on their own is a poor strategy. If a
+thought occurs to you that <em>“It's only me who doesn't get it and
+others have if all figured out”</em>, don't believe it. <em>Ask
+questions</em> of me and your classmates and take action to make sense
+of the material.</li>
+<li><strong>Good management of time, tasks, and information.</strong>
+Understanding the material won't help you if you procrastinate, skip
+announcements, or don't use a calendar. All course information will be
+clearly laid out for you, but it's up to you to import that information
+into your own lives and act on it. If you can commit to these, then I
+have every expectation that you'll succeed in the course, no matter what
+your prior chemistry background.</li>
+</ol>
+<h3 id="why-study-organic-chemistry">Why study organic chemistry?</h3>
+<p>“To be an organic chemist, or course!” one might say. The fact is,
+that less than 1% of all students I taught this course in the past are
+practicing chemists or pursue a graduate degree in the physical
+sciences. For most students this course is just a part of the curriculum
+or a requirement for an advanced training program in health-related
+field. Then why is this course a hard requirement for many career paths?
+Successful completion of organic chemistry is <a
+href="https://socialsci.libretexts.org/Bookshelves/Economics/Principles_of_Microeconomics_(Curtis_and_Irvine)/05%3A_The_Factors_of_Production/13%3A_Human_capital_and_the_income_distribution/13.04%3A_Education_as_signalling">a
+signal to the outside world</a>. It demonstrates your competence in
+self-regulated learning, proving that you can quickly learn hard
+abstract concepts and that you know how to work with models and
+theories. Doing well in organic chemistry also reveals that you can
+manage time and tasks, and that you can use highly technical language to
+communicate with peers.</p>
+<h2 id="course-goals-and-structure">Course goals and structure</h2>
+<p>The goal of this course is to illustrate that by understanding the
+principles of bonding and reactivity chemists can design molecules that
+serve specific function, especially in the contexts relevant to other
+disciplines: medicine, biology, and material science. To get closer to
+achieving course goal, we will focus on a variety of skills.</p>
+<h3 id="course-learning-objectives">Course learning objectives</h3>
+<p>At the successful completion of this course, you will be able to:</p>
+<ul>
+<li>Use common drawing and naming conventions to represent the structure
+and properties of organic molecules.</li>
+<li>Explain macroscopic physical properties of compounds using
+molecule-level phenomena (polarity and intermolecular forces).</li>
+<li>Use curved arrow notation to draw mechanisms of chemical
+transformations.</li>
+<li>Analyze chemical structures and reactions to make predictions about
+chemical processes.</li>
+<li>Predict products of chemical reactions.</li>
+<li>Propose a synthesis of an organic molecule.</li>
+<li>Explain the reasoning behind solutions to problems clearly to an
+appropriate audience.</li>
+<li>Connect the ideas of organic chemistry with your own personal and
+professional interests.</li>
+</ul>
+<p>The skills and conceptual knowledge that you'll learn in the course
+are encapsulated in a list of 14 Learning Targets, six (6) of which are
+labelled as CORE targets and represent the essential skills that every
+CHEM 128A student should possess by the end of the course. You can find
+that list in <a href="#appendix-a-list-of-learning-targets">Appendix
+A</a>, and it's linked elsewhere on our various course sites.</p>
+<h3 id="course-content-and-workflow">Course content and workflow</h3>
+<p>To achieve course-level objectives we need material to work with.
+Topics in this course will be roughly follow the order of chapters in
+the textbook. Each class meeting has activities for you to do before,
+during and after the class. For details on specific assignment types,
+see the next section.</p>
+<p><strong>Before class.</strong> To prepare for class your task will be
+to complete <strong>Class Primer</strong> assignments and get familiar
+with the basic concepts related to the topic of the upcoming class and
+review previously covered material. I will provide a list of suggested
+reading and video content for you to review before the lesson. You'll
+then complete a small set of basic questions and exercises. This way,
+you'll come to class ready to work, and we can skip lectures on the
+basics in class unless it's really needed.</p>
+<p><strong>During class.</strong> Wee will be focused on <em>answering
+questions</em> and <em>doing active work</em>, both intended to make it
+easy for you to make sense of the material and ask questions so you can
+maximize the impact of your studying between classes.</p>
+<p><strong>After class.</strong> You will continue to engage with the
+material through practice and deliberation on the ideas discussed in
+class. You will return to relevant sections of the textbook to review
+diagrams and illustrations. The goal of these activities is to prepare
+you to attempt <strong>Learning Target</strong> problems on Checkpoints
+and work on <strong>Integrated Problems</strong>.</p>
+<p>A typical week could be structured as follows:</p>
+<ol type="1">
+<li><strong>Monday</strong> - Class meeting: Q&amp;A from Class Primer
+and active work on more advanced concepts</li>
+<li><strong>Tuesday</strong> - Complete Class Primer for Wednesday</li>
+<li><strong>Wednesday</strong> - Class meeting: Q&amp;A from Class
+Primer and active work on more advanced concepts</li>
+<li><strong>Thursday</strong> - Review of the concepts, solving
+additional problems, work on Integrated Problems</li>
+<li><strong>Friday</strong> - Review of the concepts, solving additional
+problems, work on Integrated Problems</li>
+<li><strong>Saturday</strong> - Complete Class Primer for Monday</li>
+<li><strong>Sunday</strong> - If you stay current on work during the
+week you should have Sundays free to do the busy work other professors
+assign in their courses.</li>
+</ol>
+<h2 id="assessments-and-grading">Assessments and grading</h2>
+<h3 id="types-of-assessments">Types of assessments</h3>
+<p>The course uses a grading system that emphasizes <em>growth</em> and
+your work will be required to meet certain levels of quality that
+demonstrate mastery of the material. You will be engaging with several
+kinds of activities in the course, both to facilitate learning of the
+material and to demonstrate how well you have learned it. There are
+three areas that contribute to your course grade:</p>
+<ul>
+<li>Mastery of basic skills (the craft);</li>
+<li>Application of those basic skills (integration); and</li>
+<li>Engagement, effort, and participation (community).</li>
+</ul>
+<h4 id="mastery-of-basic-skills">Mastery of basic skills</h4>
+<p><a href="#course-learning-objectives">Course-level learning
+objectives</a> are too broad to be assessed and are further broken down
+into 14 <em>Learning Targets</em>, (see the complete list in <a
+href="#appendix-a-list-of-learning-targets">Appendix A</a>). Each
+learning target is focused on a specific skill and/or content we will be
+studying. Six (6) of these are designated as <strong>CORE</strong>
+skills and mastering those is one of the requirements for passing the
+course.</p>
+<p>You demonstrate your learning by solving <strong>LT Problems</strong>
+during Checkpoints, in-class times set aside for assessment. Think of
+Checkpoints as exams. For each <em>Learning Target</em> I set three
+levels of achievement: <em>Beginner</em>, <em>Proficient</em>, and
+<em>Master</em>. Detailed rubrics on how those marks are given can be
+found in the <a
+href="https://github.com/hmuchalski/ochem1/blob/main/CHEM128A-AY-24-25-Fall/standards-for-student-work.md">Standards
+for Student Work</a> document.</p>
+<h4 id="application-of-skills">Application of skills</h4>
+<p>Using cooking as analogy, a chef uses their knowledge of ingredients
+and basic skills to prepare a dish or a meal. Similarly, <em>Integrated
+Problems</em> will assess broader range of skills and knowledge that
+span multiple Learning Targets. Solving integrated problems will require
+use of multiple basic OChem skills <em>and</em> communication skills to
+compose and convey the answer. <em>Integrated Problems</em> will be
+released roughly every other week. The problems may have multiple parts
+composed of basic and extended practice problems, and harder problems
+that involve applications. Think of this assignment as a short paper
+that is evaluated as a whole using a rubric found in the <a
+href="https://github.com/hmuchalski/ochem1/blob/main/CHEM128A-AY-24-25-Fall/standards-for-student-work.md">Standards
+for Student Work</a> document.</p>
+<h4 id="engagement">Engagement</h4>
+<p>Ongoing engagement with the course is an important part of the
+learning process. <strong>Class Primers</strong> and <strong>iClicker
+polls</strong> are two ways you can earn <strong>Engagement
+Credits</strong>.</p>
+<p><strong>Class Primers</strong> are pre-class assignments designed to
+give you the basic knowledge of terms, ideas, and basic concepts that
+will allow us to jump right into applications when we get to class. They
+involve reading the textbook, asking questions about what you read, and
+completing <em>Skill Exercises</em>. Think of this as
+<em>Homework</em>.</p>
+<p><strong>iClicker Credits</strong> are earned by participation in
+polls during class. Polls give me real-time feedback and help steer
+class discussions. They are also my way of encouraging you to attend
+class meetings. You will receive one credit if you participate in, i.e.,
+give answer to, 75% of questions asked in class session. You should try
+your best to answer correctly but correctness is not factored into the
+score, only participation. The number of questions in polls will vary;
+sometimes only two or three questions.</p>
+<h3 id="how-course-final-grades-are-determined">How course final grades
+are determined</h3>
+<p>Your course grade is determined using the table below. In order to
+earn a particular letter grade, all requirements in the column for that
+grade must be met. Failing grade (F) is given if all the requirements
+for a “D” are not met. If the total number of assignments of a given
+type is changed due to scheduling or other issues, this table will be
+updated.</p>
+<table class="ic-Table ic-Table--condensed ic-Table--striped ic-Table--hover-row" style="width: 600px;">
+<thead>
+<tr>
+<th>Category (total)</th>
+<th>D</th>
+<th>C</th>
+<th>B</th>
+<th>A</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Class Primers</td>
+<td>8</td>
+<td>12</td>
+<td>16</td>
+<td>20</td>
+</tr>
+<tr>
+<td>iClicker Credits</td>
+<td>8</td>
+<td>12</td>
+<td>16</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Learning Targets Mastered</td>
+<td>5</td>
+<td>7</td>
+<td>10</td>
+<td>13</td>
+</tr>
+<tr>
+<td>Integrated Problems</td>
+<td>N/A</td>
+<td>1</td>
+<td>4</td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
+<h4 id="bottom-line">Bottom line</h4>
+<p>If you master half of the <em>Learning Targets</em>, show some
+evidence of being able to apply the basic skills, and stay reasonably
+engaged in the class, you can expect to pass the class with a grade of
+“C”. Students who aspire to earn an “A” must master nearly all LTs
+(including all CORE), consistently show they can apply basic skills to
+solve <em>Integrated Problems</em>, and stay consistently engaged and
+prepared for class.</p>
+<blockquote>
+<p>[!CAUTION] CORE Learning Targets are the most important. Failing to
+earning <em>Master</em> on all <code>CORE</code> LTs will result in one
+letter grade reduction (for example from B to C). The numbers for the
+<em>Learning Targets</em> column refer to the number of LTs for which
+you earn <em>Master</em> rating (shown in Canvas as <code>2</code>).
+Marks of <em>Proficient</em> (<code>1</code>) or <em>Beginner</em>
+<strong>do not count</strong>.</p>
+</blockquote>
+<h4 id="borderline-cases">Borderline cases</h4>
+<p>With nearly 40 students in the class, each on a different path to the
+final grade, it sometimes happens that a student completes almost all
+requirements (all except for one). I will use my professional judgment
+and look at the student's engagement and effort and leave an option of
+assigning a grade that is higher (but never lower) than the syllabus
+indicates. Therefore, it is to your benefit to show that you are engaged
+and invested in achieving learning objectives of the course.</p>
+<blockquote>
+<p>[!IMPORTANT] Higher score in one category cannot be used as argument
+to “prop-up” insufficient score in another category. For example,
+earning <em>Master</em> on more LT Problems will not compensate for
+lower score on Integrated Problems. Also, you don't have to do it all.
+If you aim for “A”, you <strong>do not</strong> have to complete
+<em>every</em> Learning Target.</p>
+</blockquote>
+<h3 id="why-i-think-this-is-a-better-approach-to-grading">Why I think
+this is a better approach to grading</h3>
+<p>The grading system outlined above may be unusual, but in my view has
+several advantages:</p>
+<ul>
+<li>Many assignments can be revised or reattempted if you need to
+improve your work (<a href="#revisions-and-reattempts">see the next
+section below</a>), and once you have demonstrated <em>Mastery</em> on a
+<em>Learning Target</em>, <em>Integrated Problem</em>, you do not have
+to revisit it again in the course. It's possible that if you do well on
+the Checkpoints, you will only need to work a fraction of the final
+exam. Many times, students just opt out of the final altogether if they
+have strong performances throughout the semester.</li>
+<li>If you're off to a shaky start and your marks early in the semester
+are poor, you have time to practice and improve and past results don't
+hurt your final grade.</li>
+<li>The final letter grade is like a score in a video game—it stay the
+same or goes up.</li>
+<li>Points, statistics, and unethical approaches such as grading on a
+curve are not involved. Your grade is tracked with a checklist.</li>
+</ul>
+<p>The main downside of this grading system is that it can be
+complicated and convoluted. The section about grading is by far the
+longest part of this syllabus. In my experience, however, most students
+“get it” after a few weeks, and I am always happy to clarify the
+situation.</p>
+<p>As a teacher and learner, I strongly believe that <em>learning takes
+time</em> and that grading your work based on a single point of data,
+such as a single quiz or test, is inaccurate, invalid, and perhaps
+unethical. A truly valid measure of learning has to involve <em>multiple
+attempts</em> that allow you to learn from (and correct) your past
+mistakes and demonstrate not only your skill, but also your growth. I
+believe you should not be penalized for having a bad day that results in
+a bad test score, so long as you can show evidence that you've
+<em>eventually</em> learned what you need to learn. Course learning
+objectives are phrased as “at the end of the course the student should
+be able to…”. Thus, nothing is final until the end of the course.</p>
+<h3 id="note-on-canvas-gradebook">Note on Canvas Gradebook</h3>
+<p>Canvas developers insist that assignments have point value which goes
+against my grading philosophy. You will notice that Canvas assignments
+have point values and will say something like “This assignment does not
+count toward the final grade”. <strong>Ignore this statement.</strong>
+It means that it is not included in the total point count you see in the
+gradebook because we don't use points-based grading. <em>Numbers are
+used as marks that indicate progress</em>.</p>
+<table class="ic-Table ic-Table--condensed ic-Table--striped ic-Table--hover-row" style="width: 600px;">
+<thead>
+<tr>
+<th style="text-align: left;">Assignment</th>
+<th style="text-align: left;">Shows on Canvas</th>
+<th style="text-align: left;">Can be reattempted?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Class Primer</td>
+<td style="text-align: left;"><code>1</code> or <code>0</code></td>
+<td style="text-align: left;">No</td>
+</tr>
+<tr>
+<td style="text-align: left;">iClicker Credits</td>
+<td style="text-align: left;">total</td>
+<td style="text-align: left;">No</td>
+</tr>
+<tr>
+<td style="text-align: left;">Learning Target</td>
+<td style="text-align: left;"><code>0</code>, <code>1</code>, or
+<code>2</code></td>
+<td style="text-align: left;">Yes</td>
+</tr>
+<tr>
+<td style="text-align: left;">Integrated Problems</td>
+<td style="text-align: left;"><code>0</code> or <code>1</code></td>
+<td style="text-align: left;">Yes</td>
+</tr>
+</tbody>
+</table>
+<h3 id="revisions-and-reattempts">Revisions and reattempts</h3>
+<h4 id="learning-targets">Learning Targets</h4>
+<p>Each Checkpoint contains new LT problems as well as new versions of
+older ones. If you attempt an LT problem and do not earn <em>Master</em>
+on it, you can reattempt it at the next Checkpoint. For each Learning
+target you will have 3-4 opportunities to earn <em>Master</em> rating.
+Detailed rubrics on how those marks are given can be found in the <a
+href="https://github.com/hmuchalski/ochem1/blob/main/CHEM128A-AY-24-25-Fall/standards-for-student-work.md">Standards
+for Student Work</a> document.</p>
+<table class="ic-Table ic-Table--condensed ic-Table--striped ic-Table--hover-row" style="width: 600px;">
+<thead>
+<tr>
+<th style="text-align: left;">Checkpoint</th>
+<th style="text-align: left;">Date</th>
+<th style="text-align: left;">Learning Targets</th>
+<th style="text-align: left;">Time allotted</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Checkpoint 1</td>
+<td style="text-align: left;">9/4</td>
+<td style="text-align: left;">1-3</td>
+<td style="text-align: left;">30 min</td>
+</tr>
+<tr>
+<td style="text-align: left;">Checkpoint 2</td>
+<td style="text-align: left;">9/18</td>
+<td style="text-align: left;">1-5</td>
+<td style="text-align: left;">45 min</td>
+</tr>
+<tr>
+<td style="text-align: left;">Checkpoint 3</td>
+<td style="text-align: left;">10/9</td>
+<td style="text-align: left;">1-8</td>
+<td style="text-align: left;">60 min</td>
+</tr>
+<tr>
+<td style="text-align: left;">Checkpoint 4</td>
+<td style="text-align: left;">10/23</td>
+<td style="text-align: left;">6-10</td>
+<td style="text-align: left;">30 min</td>
+</tr>
+<tr>
+<td style="text-align: left;">Checkpoint 5</td>
+<td style="text-align: left;">11/13</td>
+<td style="text-align: left;">1-13</td>
+<td style="text-align: left;">75 min</td>
+</tr>
+<tr>
+<td style="text-align: left;">Checkpoint 6</td>
+<td style="text-align: left;">12/11</td>
+<td style="text-align: left;">4-14</td>
+<td style="text-align: left;">75 min</td>
+</tr>
+<tr>
+<td style="text-align: left;">Final Exam</td>
+<td style="text-align: left;">12/18</td>
+<td style="text-align: left;">1-14</td>
+<td style="text-align: left;">75 min</td>
+</tr>
+</tbody>
+</table>
+<h4 id="integrated-problems">Integrated Problems</h4>
+<p>You can revise and resubmit each Integrated Problem once (total of
+two attempts). Your initial attempt will get verbal or written feedback
+on it, and you can use the feedback to make corrections and/or
+improvements that are called for. Solutions are submitted on Canvas in
+an assignment area; revisions are simply submitted to the same
+assignment area as a new version.</p>
+<p>Integrated Problems will come with a deadline for initial
+submissions. You must submit a complete, good-faith effort on the
+assignment prior to the deadline in order to be eligible to revise or
+resubmit it. Examples of situations where revision would not be allowed
+include the following:</p>
+<ul>
+<li>The assignment is not submitted at all before the deadline (In other
+words you cannot “revise” an assignment you did not turn in).</li>
+<li>The assignment is submitted but some parts of the problem are
+skipped or omitted either partially or entirely, or includes responses
+saying something like “I didn't know how to do this part” but no
+significant attempt at a solution.</li>
+<li>The assignment is submitted but the work has significant issues or
+errors throughout. This usually occurs when it is difficult to tell if
+there is any understanding of the concepts.</li>
+</ul>
+<p>Revisions of Integrated Problems sets also have a deadline. No
+revisions are accepted past that deadline. No revisions or reattempts on
+any item are allowed after 11:59 pm PT on Sunday, December 8. This is
+the beginning of the last week of classes, and no revisions or
+reattempts are allowed after that point so that the queue of items to
+grade can be cleared prior to the finals week.</p>
+<h2 id="getting-help">Getting help</h2>
+<p>As mentioned, you will almost certainly find yourself lost, stuck, or
+confused on <em>something</em> in this course at some point. This is not
+a defect in your character or intelligence; it's a sign you are being
+challenged, and you can turn that challenge into real growth by
+<strong>seeking out help as soon as you need it</strong>. Make every
+effort to get yourself unstuck and resolve your questions on your own
+first. But then:</p>
+<ul>
+<li><strong>Attend office hours and ask questions there.</strong> No
+appointment needed.</li>
+<li><a href="https://calendar.app.google/89WXddVpYZ5YwzMD6">Schedule an
+appointment through Google Calendar</a> if drop-in hours don't work for
+you.</li>
+<li><strong>Work with a classmate</strong> as long as you're staying
+within bounds on academic honesty above. In particular, working in
+groups on Class Primer is a very good idea and will help keep you from
+getting stuck at the beginning of a new concept.</li>
+</ul>
+<h2 id="instructor-availability-and-message-responses">Instructor
+availability and message responses</h2>
+<p><strong>You can ask a question about anything at any time.</strong>
+You have both the right and the responsibility to ask questions about
+anything in the course you don't fully understand, whether math or some
+aspect of the syllabus or anything else. You can use email, office
+hours, appointments, or grab me before or after class.</p>
+<p>However, please note that I cannot always respond immediately to
+messages. In particular <strong>I do not typically check email between
+6:00pm and 8:00am on weeknights</strong>, and <strong>I do not typically
+check email at all on weekends</strong> in order to prioritize time for
+family and other non-work pursuits. That said,</p>
+<ul>
+<li>Messages sent on a weekday (Monday-Friday) before 3:00 pm will
+likely get a response <em>the same day</em>.</li>
+<li>Messages sent after 3:00 pm Monday-Thursday will get a response
+<em>the next day</em>.</li>
+<li>Messages sent after 3:00 pm on Fridays or on the weekend will get a
+response <em>the following Monday</em>.</li>
+</ul>
+<p><strong>Please plan ahead for instructor availability.</strong> For
+example if you have something to turn in on a Friday, and you send a
+question by email after 3:00pm, my reply may not come in time to help
+you; plan ahead for contingencies like this.</p>
+<h2 id="course-policies">Course policies</h2>
+<h3 id="academic-integrity">Academic integrity</h3>
+<p>This course is subject to <a
+href="https://studentaffairs.fresnostate.edu/studentconduct/academic-integrity/">Standards
+of Student Conduct</a> and <a
+href="http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/236.pdf">The
+Code of Academic Integrity</a>. Every student has the responsibility of
+reading and understanding these policies, especially the consequences
+for engaging in academically dishonest activities.</p>
+<p>None of these policies should be necessary because there's no need to
+be academically dishonest thanks to the revision/resubmission policy.
+Rather than engage in academic dishonesty and putting your entire career
+at risk, just turn in your best complete good-faith effort on
+assignments. And then, if revisions are needed, you'll typically get the
+chance. The important thing in CHEM 128A is not the grade, it's the
+understanding and growth you get from engaging in a feedback loop on
+your work.</p>
+<blockquote>
+<p>[!IMPORTANT] TL;DR When you submit work on an assignment in this
+class, it must be your ideas and your voice, and not someone else's or
+those of an AI. Anything else is subject to strong penalties that are
+required by the university.</p>
+</blockquote>
+<p>Any action or behavior that misrepresents one's contributions to or
+the results of any scholarly product submitted for credit, evaluation,
+or dissemination will be considered academic misconduct. For
+example:</p>
+<ul>
+<li><em>Cheating</em>: Attempting to use materials, information, or aids
+that have not been authorized by the instructor for academic work.</li>
+<li><em>Collusion</em>: Unauthorized collaboration with another person
+in preparing academic assignments offered for credit, and collaboration
+with another person to commit a violation of any section of the rules on
+academic misconduct. Generative AI tools such as ChatGPT are included in
+the definition of “another person”.</li>
+<li><em>Dual submission</em>: Submitting work that has been previously
+graded, or is being submitted concurrently to more than one course,
+without authorization from the instructor of the class to which the
+student wishes to submit. (This especially applies to those who are
+repeating CHEM 128A.)</li>
+<li><em>Plagiarism</em>: Appropriation of, buying, receiving as a gift,
+or obtaining by any means material that is attributable in whole or in
+part to another source without any indication or citation of the
+original source, including words, sentences, ideas, illustrations,
+structure, computer code, and other expression or media, and presenting
+that material as one's own academic work being offered for credit or in
+conjunction with a program, course, or degree requirements.</li>
+</ul>
+<p>Please note that this is not a complete list; and note that
+<strong>enabling others</strong> to engage in academic misconduct is a
+form of academic misconduct.</p>
+<p>In CHEM 128A, when you submit an item for grading, it must represent
+<em>your</em> ideas and be written in <em>your</em> voice, however
+flawed those may be. Your work cannot significantly consist of ideas or
+wording from another person or from an AI tool. Specific guidelines for
+each form of assignment are:</p>
+<ul>
+<li><strong>Learning Target problems</strong>: These are completed on
+paper during a class meeting. No collaboration is allowed, and no notes
+are allowed.</li>
+<li><strong>Integrated Problems</strong>: Sometimes these are extensions
+of simpler problems that we do in groups during class, and you can use
+the results of that collaboration. Otherwise, you are allowed to consult
+with another person or an AI tool, if the issue pertains to
+<strong>terminology</strong> used in the problem, or very high-level
+discussions about <strong>what the problem is asking for</strong>. But
+no collaboration with people or AI is allowed on any question or
+strategy that involves actually solving the problem. In other words, you
+cannot ask AI tool to tell you “Howe to solve the problem”.</li>
+<li><strong>Class Primer and iClicker</strong>: You're allowed, actually
+encouraged, to collaborate freely with others on these as long as you
+are obeying the general rule that the work you turn in is your ideas and
+your voice. If there is ever an exception, you'll be told in
+advance.</li>
+</ul>
+<p>I have no interest in creating a police state in my courses. But I am
+obliged to investigate any evidence I perceive in which a student is
+submitting work that does not faithfully represent their own
+understanding. This investigation may involve discussions about the work
+or a request to reproduce the work or something like it, in a
+face-to-face meeting.</p>
+<p>You can ask me (Dr. M.) any question you want, about anything, at any
+time. Getting help from the professor is not academic dishonesty! In
+case I cannot answer a question because it would reveal spoilers for the
+solution, I'll tell you so and it will be no big deal. Asking a question
+will never be held against you.</p>
+<h3 id="attendance-and-participation">Attendance and participation</h3>
+<p>Attendance is expected at all class meetings. The pace of the course
+is such that missing a class will result in falling behind almost
+immediately, and it's very hard to recover. iClicker credits are the
+incentive to attend classes regularly. Participation is an essential
+element of attendance. As mentioned before, the class is designed using
+flipped learning model where the majority of in-class time is spent on
+active participation, as opposed to passive observation of the
+instructor lecturing from slides.</p>
+<h3 id="absences">Absences</h3>
+<p>Student absences (planned, unplanned, and for University-sponsored
+activities) will be handled according to the <a
+href="https://academics.fresnostate.edu/facultyaffairs/documents/apm/232.pdf"><em>Policy
+on Student Absences (APM 232)</em></a>.</p>
+<p>If you must be absent, you do not need prior permission or
+justification, but a notification will be appreciated. However,
+<em>please avoid any non-essential absences</em> such as skipping class,
+or scheduling a vacation during a day where class is scheduled. If you
+miss, you are solely responsible for catching up. Missing a class
+meeting may also mean missing a Checkpoint. In most cases, you will have
+an opportunity to attempt the problem at the next Checkpoint.</p>
+<h3 id="deadlines-and-late-work">Deadlines and late work</h3>
+<p>Deadlines for Class Primers, and Integrated Problems are listed on
+Canvas. In cases of apparent conflict between dates (different date on a
+description page and different in the calendar), always assume that the
+Course Calendar is right.</p>
+<h3 id="technology-issues-when-submitting-work">Technology issues when
+submitting work</h3>
+<p>It is the student's responsibility to make sure these items are
+submitted on time, even if technology issues arise. Technology issues
+that are avoidable or resolved with a simple work-around will not be
+considered valid grounds for a deadline extension. For example, if you
+are trying to upload work to Canvas and Canvas won't accept the file,
+you should try again later, use different browser, upload to Google
+Drive and share a private link or send the file as an email attachment
+until you can upload it successfully.</p>
+<h3 id="intellectual-property">Intellectual Property</h3>
+<p>Students are prohibited from any unauthorized recording,
+dissemination, or publication of any academic presentation, including
+any online classroom instruction, for any commercial purpose. In
+addition, students may not record or use virtual/online instruction in
+any manner that would violate copyright law. Students are to use all
+online/virtual instruction exclusively for the educational purpose of
+the online class in which the instruction is being provided. Students
+may not re-record any online recordings or post any online recordings on
+any other format (e.g., electronic, video, social media, audio
+recording, web page, internet, hard paper copy, etc.) for any purpose
+without the explicit written permission of the faculty member providing
+the instruction. Exceptions for disability-related accommodations will
+be addressed by Services for Students with Disabilities (SSD) working in
+conjunction with the student and faculty member.</p>
+<h3 id="dropping-the-course">Dropping the course</h3>
+<p>Dates and details on withdrawing from courses are described on the <a
+href="http://fresnostate.edu/studentaffairs/are/registration/add-drop-deadlines.html">Admissions
+web pages</a>.</p>
+<p>A <em>serious and compelling reason</em> is defined as an unexpected
+condition that is not present prior to enrollment in the course that
+unexpectedly arises and interferes with a student's ability to attend
+class meetings and/or complete course requirements. The reason must be
+acceptable to and verified by the instructor of record and the
+department chair. The condition must be stated in writing on the
+appropriate form. The student must provide documentation that
+substantiates the condition. Failing or performing poorly in a class is
+not an acceptable “serious and compelling reason” within the University
+policy, nor is dissatisfaction with the subject matter, class or
+instructor.</p>
+<h3 id="university-policies-and-disclaimers">University policies and
+disclaimers</h3>
+<p>In addition to course policies, you are expected to be familiar with
+Academic Regulations described in the <a
+href="http://www.fresnostate.edu/catalog/academic-regulations/">University
+Catalog</a> as well as policies listed below.</p>
+<ul>
+<li><a
+href="http://fresnostate.edu/studentaffairs/classschedule/policy/">Class
+Schedule Policies</a></li>
+<li><a href="http://libguides.csufresno.edu/copyright">Copyright
+Policy</a></li>
+<li><a
+href="http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html">Services
+for Students with Disabilities</a></li>
+<li><a
+href="http://fresnostate.edu/studentaffairs/studentconduct/academic-integrity/">Academic
+Integrity</a></li>
+<li><a
+href="http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html">Policy
+on Cheating and Plagiarism</a></li>
+<li><a
+href="https://academics.fresnostate.edu/facultyaffairs/documents/apm/232.pdf">Policy
+on Student Absences</a></li>
+<li><a
+href="http://fresnostate.edu/studentaffairs/classschedule/registration/add-drop.html">Add/Drop
+Course</a></li>
+</ul>
+<blockquote>
+<p>[!IMPORTANT] Changes to this syllabus may occur during the term. In
+those cases, the changes will be highlighted in this document and be
+announced in class. If appropriate, students will be given a voice on
+how the changes will be implemented. It is your responsibility stay
+abreast of the information passed along in course announcements so that
+you will be aware of any changes that take place.</p>
+</blockquote>
+<h2 id="acknowledgments-and-attributions">Acknowledgments and
+attributions</h2>
+<p>Embarrassingly large portions of the language of this syllabus as
+well as ideas related to growth grading and flipped learning are
+influenced by work and writing of of <a
+href="https://gradingforgrowth.com/">Prof. Robert Talbert and
+Prof. David Clark</a>, mathematics faculty at Grand Valley State
+University.</p>
+<h2 id="appendix-a-list-of-learning-targets">Appendix A: List of
+Learning Targets</h2>
+<ol type="1">
+<li>(<code>CORE</code>) I can deduce bonding information (hybridization,
+formal charge, geometry, valence, charge polarization) embedded in
+chemical representations. I can draw Lewis structures compliant with the
+bond-line (zig-zag, skeletal) convention.</li>
+<li>I can identify functional groups, condensed formulas, and common
+alkyl groups. I can convert between different drawing conventions as
+well as recognize implicit carbons and hydrogens in a structure.</li>
+<li>(<code>CORE</code>) I can distinguish between localized and
+delocalized bonding systems. I can draw resonance forms to show electron
+delocalization and assess their relative contribution to the overall
+electronic character of the molecule.</li>
+<li>(<code>CORE</code>) I can rationalize acidity and basicity trends of
+organic molecules according to the Brønsted–Lowry theory.</li>
+<li>I can predict the position of acid-base equilibrium and choose a
+suitable reagent for an efficient proton transfer reaction.</li>
+<li>I can use various projections of structures and conformational
+analysis to assess the relative energy of conformations of chain
+molecules and cyclohexane derivatives.</li>
+<li>(<code>CORE</code>) I can use IUPAC nomenclature rules to convert
+structure to name and name to structure, including markers of absolute
+(R/S) and relative (<em>cis</em>/<em>trans</em>, <em>E</em>/<em>Z</em>,
+<em>syn</em>/<em>anti</em>) stereochemical information.</li>
+<li>I can identify types of isomeric relationships between molecules. I
+can use drawings of structures and projections to demonstrate the
+stereoisomeric relationship between molecules.</li>
+<li>(<code>CORE</code>) I can identify reaction mechanism patterns and
+draw curved arrows to illustrate bond-forming and bond-breaking steps. I
+can draw structures of transition states and reactive intermediates. I
+can identify nucleophilic and electrophilic centers in organic
+molecules.</li>
+<li>I can categorize chemical transformations as substitution, addition,
+or elimination. I can determine the change in enthalpy using values of
+bond dissociation energy. I can use reaction-energy diagrams to
+communicate the kinetics and thermodynamics of chemical reactions.</li>
+<li>(<code>CORE</code>) Given an incomplete chemical reaction scheme, I
+can provide missing reactants, products, or reagents &amp; conditions
+for transformations involving alkenes.</li>
+<li>I can identify the monomer and type of polymerization (cationic,
+anionic, or radical) needed to prepare a given polymer. I can draw a
+mechanism of formation of a polymer chain.</li>
+<li>Given an incomplete chemical reaction scheme, I can provide missing
+reactants, products, or reagents &amp; conditions for transformations
+involving alkynes</li>
+<li>Given an incomplete chemical reaction scheme, I can provide missing
+reactants, products, or reagents &amp; conditions for transformations
+involving alkyl halides and sulfonates.
+<!-- 15. I can explain the selectivity and divergent reaction pathways of nucleophilic substitution and elimination reactions using conformational analysis and curved arrow mechanisms.  --></li>
+</ol>
+<!-- JOURNAL -->
+<!-- I can use conformational analysis and reaction mechanisms (ionic and radical-mediated) to explain selectivity and divergent reaction pathways of addition reactions of alkenes and alkynes. -->
+<!-- I can solve multi-step synthesis problems -->
+<!-- Learning Objectives (source: ACS Institute Think like chemist course) 
+
+Describe what you see (macroscopic) with chemical language (microscopic & sub-microscopic)
+Design ways you can separate a mixture into its components by manipulating physical and chemical properties
+Use the Periodic Table to support decision-making
+Differentiate between chemical elements using subatomic particles (protons, neutrons and electrons)
+Explain how type of chemical bond governs behavior of a compound
+Identify elements and chemicals using “light”
+Understand practical applications of radiation/radioactivity
+Connect molecular shape to function, use, and activity
+Rationalize physical phenomena using polarity and intermolecular forces
+Understand the organic chemistry of polymers
+Analyze MSDS/SDS to make informed decisions
+
+-->
