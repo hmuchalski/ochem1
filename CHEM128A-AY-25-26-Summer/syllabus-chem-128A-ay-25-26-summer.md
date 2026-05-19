@@ -86,25 +86,25 @@ Before class, your task will be to complete **Class Primer** assignments, become
 
 The Summer 2026 session runs from Tuesday, May 26 through Friday, June 12. The final checkpoint will be held on Monday, June 15 at 9:00. The calendar below lists the planned focus for each day of the accelerated session.
 
-| Date        | Topics                                                                      | Checkpoint |
-| ----------- | --------------------------------------------------------------------------- | ---------- |
-| Mon, May 25 | NO CLASS (Memorial Day)                                                     |            |
-| Tue, May 26 | Course launch, bonding, Lewis structures, hybridization, molecular geometry |            |
-| Wed, May 27 | Functional groups, delocalized systems, resonance, acids and bases          |            |
-| Thu, May 28 | Acids and bases                                                             | 1-3        |
-| Fri, May 29 | Conformations, strain analysis, and isomerism                               |            |
-| Mon, Jun 01 | Nomenclature, stereochemistry, and isomeric relationships                   | 1-6        |
-| Tue, Jun 02 | Reactions, mechanism patterns, curved arrows, and reactive intermediates    |            |
-| Wed, Jun 03 | Reactions of alkenes                                                        |            |
-| Thu, Jun 04 | Reactions of alkenes and alkynes                                            | 4-9        |
-| Fri, Jun 05 | Reactions of alkenes and alkynes                                            |            |
-| Mon, Jun 08 | Organic halides and pseudohalides: nucleophilic substitution                | 7-11       |
-| Tue, Jun 09 | Organic halides and pseudohalides: elimination                              |            |
-| Wed, Jun 10 | Chemistry of alcohols and ethers                                            |            |
-| Thu, Jun 11 | Synthetic strategies (review of reactions and mechanisms)                   | 10-14      |
-| Fri, Jun 12 | Synthetic strategies (review of reactions and mechanisms)                   |            |
-| Mon, Jun 15 | Final checkpoint                                                            | 1-14       |
-| Fri, Jun 19 | Grades posted                                                               |            |
+| Date        | Topics                                                                      | Class Primer | Reading                 | Checkpoint |
+| ----------- | --------------------------------------------------------------------------- | ------------ | ----------------------- | ---------- |
+| Mon, May 25 | NO CLASS (Memorial Day)                                                     |              |                         |            |
+| Tue, May 26 | Course launch, bonding, Lewis structures, hybridization, molecular geometry | CP-01        | 1.1–1.12                |            |
+| Wed, May 27 | Functional groups, delocalized systems, resonance, acids and bases          | CP-02        | 2.1-2.6; 3.1-3.3        |            |
+| Thu, May 28 | Acids and bases                                                             | CP-03        | 2.7-2.12                | 1-3        |
+| Fri, May 29 | Conformations, strain analysis, and isomerism                               | CP-04        | 3.5-3.7; 4.1-4.9        |            |
+| Mon, Jun 01 | Nomenclature, stereochemistry, and isomeric relationships                   | CP-05        | 5.1-5.12 + nomenclature | 1-6        |
+| Tue, Jun 02 | Reactions, mechanism patterns, curved arrows, and reactive intermediates    | CP-06        | 6.1-6.11                |            |
+| Wed, Jun 03 | Reactions of alkenes                                                        | CP-07        | 7.1-7.11                |            |
+| Thu, Jun 04 | Reactions of alkenes and alkynes                                            | CP-08        | 8.1-8.13                | 4-9        |
+| Fri, Jun 05 | Reactions of alkenes and alkynes                                            | CP-09        | 9.1-9.9                 |            |
+| Mon, Jun 08 | Organic halides and pseudohalides: nucleophilic substitution                | CP-10        | 10.1-10.8               | 7-11       |
+| Tue, Jun 09 | Organic halides and pseudohalides: elimination                              | CP-11        | 11.1-11.12              |            |
+| Wed, Jun 10 | Chemistry of alcohols and ethers                                            | CP-12        | 17.1-17.7               |            |
+| Thu, Jun 11 | Synthetic strategies (review of reactions and mechanisms)                   | CP-13        | 18.1-18.5               | 10-14      |
+| Fri, Jun 12 | Synthetic strategies (review of reactions and mechanisms)                   | CP-14        | TBD                     |            |
+| Mon, Jun 15 | Final checkpoint                                                            |              |                         | 1-14       |
+| Fri, Jun 19 | Grades posted                                                               |              |                         |            |
 
 ## Assessments and grading
 
