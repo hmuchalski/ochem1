@@ -1,9 +1,4 @@
----
-title: "Course Syllabus: Organic Chemistry (CHEM 128A)"
-author: Hubert Muchalski
-date: May 19, 2026
-css: https://unpkg.com/sakura.css/css/sakura.css
----
+# Course Syllabus: Organic Chemistry (CHEM 128A)
 
 <!-- Canvas Table Styling
 Change class of all table opening tags in HTML page before pasting to canvas
@@ -44,11 +39,15 @@ In Organic Chemistry 1, you will learn about the structure, properties, and reac
 
 ### Course materials and technology
 
-> [!NOTE]
-> All sections of CHEM 128 are also part of the *Immediate Access program*. All students have access to a digital version of David Klein's *Organic Chemistry* textbook and associated materials on the first day of class. Students who **do not** wish to purchase the course materials should opt out before their account is automatically charged.
+- **Textbook.** "Organic Chemistry: A Tenth Edition" by John McMurry [accessible online through OpenStax][openstax-mcmurry]. The book is available for free online, can be downloaded as a PDF, and can be purchased in print. The website also contains resources for students such as solutions manual and study guides. 
 
-- **Textbook (option 1).** Fourth or fifth edition of David Klein's *"Organic Chemistry"* textbook with Integrated Study Guide and Solutions Manual published by Wiley (via Immediate Access). 
-- **Textbook (option 2).** "Organic Chemistry: A Tenth Edition" by John McMurry [accessible online through OpenStax][openstax-mcmurry]. 
+> [!NOTE]
+> The print version of McMurry's *Organic Chemistry* textbook is from 2023 and it contains errors that have since been corrected in the online and PDF versions. If you choose to purchase a print version, please make sure to get the most recent edition and check for errata on the publisher's website.
+
+- **Textbook (option 2).** "Organic Chemistry" by David Klein (Fourth or fifth edition) textbook with optional Study Guide and Solutions Manual (via Inclusive Access). 
+
+> [!NOTE]
+> During the regular semester, all sections of CHEM 128 are part of the *Inclusive Access* program. All students are automatically subscribed and have access to David Klein's *Organic Chemistry* e-textbook on the first day of class. Students who **do not** wish to pay the subscription fee to must opt out before their account is automatically charged. Students can change their decision to opt in or out until May 28, 2026 11:59 PM
 
 ### How to have a good experience in CHEM 128A
 
