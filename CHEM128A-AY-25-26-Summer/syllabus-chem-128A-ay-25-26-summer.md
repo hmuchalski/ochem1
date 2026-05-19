@@ -1,7 +1,7 @@
 ---
 title: "Course Syllabus: Organic Chemistry (CHEM 128A)"
 author: Hubert Muchalski
-date: May 26, 2026
+date: May 19, 2026
 css: https://unpkg.com/sakura.css/css/sakura.css
 ---
 
@@ -10,20 +10,21 @@ Change class of all table opening tags in HTML page before pasting to canvas
 <table class="ic-Table ic-Table--condensed ic-Table--striped ic-Table--hover-row" style="width: 600px;"> 
 -->
 
-| Course Name           | Organic Chemistry 1 (lecture)                         |  
-| :-------------------- | :---------------------------------------------------- |  
-| Term                  | Summer 2026 (3-week session)                          |  
-| Units                 | 3                                                     |  
-| Department            | Chemistry and Biochemistry                            |  
-| Time                  | Monday–Friday 9:00–11:50 am                            |  
-| Location              | Science 2 room 109                                    |  
-| Instructor            | Dr. Hubert Muchalski                                  |  
-| Email                 | <hmuchalski@mail.fresnostate.edu>                     |  
-| Office phone          | 559-278-2711                                          |  
-| Office                | Science 1, room 352                                   |  
-| Student support hours | Tue, Thu 4-5 pm and by [appointment][1-on-1-calendar] |  
+| Course Name           | Organic Chemistry 1 (lecture)                            |
+| :-------------------- | :------------------------------------------------------- |
+| Term                  | Summer 2026 (3-week session)                             |
+| Units                 | 3                                                        |
+| Department            | Chemistry and Biochemistry                               |
+| Time                  | Mon–Fri 9:00–12:00                                       |
+| Location              | Science 2 room 209                                       |
+| Instructor            | Dr. Hubert Muchalski                                     |
+| Email                 | <hmuchalski@mail.fresnostate.edu>                        |
+| Office phone          | 559-278-2711                                             |
+| Office                | Science 1, room 352                                      |
+| Student support hours | Mon-Thu 15:00–16:00 or by [appointment][1-on-1-calendar] |
+|                       |                                                          |
 
-This course is offered as an accelerated 3-week Summer Intersession with daily weekday meetings and a compressed assessment cadence.  
+This course is offered as an accelerated 3-week Summer Intersession with meetings on weekday mornings and a compressed assessment cadence.  
 
 <!-- Reference URLs -->
 [dogs-in-clothes]: https://start.duckduckgo.com/?q=dogs+wearing+clothes&iar=images&iax=images&ia=images&kp=1
@@ -39,13 +40,7 @@ This course is offered as an accelerated 3-week Summer Intersession with daily w
 
 Welcome to CHEM 128A! It's great to have you in the course. I'm Dr. Hubert Muchalski, the professor for this course.
 
-In Organic Chemistry 1, you will learn about the structure, properties, and reactivity of organic compounds. Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of structures and reactivity. The billions of organic compounds alone, from amino acids, benzene, and cyclohexane derivatives, to xanthanes, ylides, and zwitterions, make the field important for study. At the same time, organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences, because **organic chemistry enables understanding of the cellular machinery of living organisms, the physical properties of materials, the effects of chemicals on the environment, and how medicines work**. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace, and much more remains to be discovered.
-
-## Introduction
-
-Welcome to CHEM 128A! It's great to have you in the course. I'm Dr. Hubert Muchalski, the professor for this course.
-
-In Organic Chemistry 1, you will learn about the structure, properties, and reactivity of organic compounds. Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of structures and reactivity. The billions of organic compounds alone, from amino acids, benzene, and cyclohexane derivatives, to xanthanes, ylides, and zwitterions, make the field important for study. At the same time, organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences, because **organic chemistry enables understanding of the cellular machinery of living organisms, the physical properties of materials, the effects of chemicals on the environment, and how medicines work**. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace, and much more remains to be discovered.
+In Organic Chemistry 1, you will learn about the structure, properties, and reactivity of organic compounds. Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of structures and reactivity. The billions of organic compounds alone, from amino acids, benzene, and codeine derivatives, to xanthanes, ylides, and zwitterions, make the field important for study. At the same time, organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences, because **organic chemistry enables understanding of the cellular machinery of living organisms, the physical properties of materials, the effects of chemicals on the environment, and how medicines work**. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace, and much more remains to be discovered.
 
 ### Course materials and technology
 
@@ -54,7 +49,6 @@ In Organic Chemistry 1, you will learn about the structure, properties, and reac
 
 - **Textbook (option 1).** Fourth or fifth edition of David Klein's *"Organic Chemistry"* textbook with Integrated Study Guide and Solutions Manual published by Wiley (via Immediate Access). 
 - **Textbook (option 2).** "Organic Chemistry: A Tenth Edition" by John McMurry [accessible online through OpenStax][openstax-mcmurry]. 
-- **Document scanning tool or a tablet with pen input.** Assignments in this course are handwritten on paper and uploaded to Canvas as PDFs. There are many free options available for both iOS and Android. Find one that you like and learn how to use it. 
 
 ### How to have a good experience in CHEM 128A
 
@@ -91,7 +85,7 @@ Before class, your task will be to complete **Class Primer** assignments, become
 
 ## 3-Week Course Calendar
 
-The Summer 2026 session runs from Tuesday, May 26 through Friday, June 12. There is no class on Memorial Day (Monday, May 25). The calendar below shows the planned focus for each day of the accelerated session.
+The Summer 2026 session runs from Tuesday, May 26 through Friday, June 12. The final checkpoint will be held on Monday, June 15 at 9:00. The calendar below lists the planned focus for each day of the accelerated session.
 
 | Date        | Topics                                                                      | Checkpoint |
 | ----------- | --------------------------------------------------------------------------- | ---------- |
@@ -105,12 +99,12 @@ The Summer 2026 session runs from Tuesday, May 26 through Friday, June 12. There
 | Wed, Jun 03 | Reactions of alkenes                                                        |            |
 | Thu, Jun 04 | Reactions of alkenes and alkynes                                            | 4-9        |
 | Fri, Jun 05 | Reactions of alkenes and alkynes                                            |            |
-| Mon, Jun 08 | Organic halides and pseudohalides: nucleophilic substitution                | 7-12       |
+| Mon, Jun 08 | Organic halides and pseudohalides: nucleophilic substitution                | 7-11       |
 | Tue, Jun 09 | Organic halides and pseudohalides: elimination                              |            |
 | Wed, Jun 10 | Chemistry of alcohols and ethers                                            |            |
-| Thu, Jun 11 | Synthetic strategies (review of reactions and mechanisms)                   | 10-15      |
+| Thu, Jun 11 | Synthetic strategies (review of reactions and mechanisms)                   | 10-14      |
 | Fri, Jun 12 | Synthetic strategies (review of reactions and mechanisms)                   |            |
-| Mon, Jun 15 | Final checkpoint                                                            | 1-15       |
+| Mon, Jun 15 | Final checkpoint                                                            | 1-14       |
 | Fri, Jun 19 | Grades posted                                                               |            |
 
 ## Assessments and grading
