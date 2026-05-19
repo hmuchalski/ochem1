@@ -1,6 +1,6 @@
 ---
 title: "Standards for Student Work in CHEM 128"
-updated: September 7, 2024
+updated: May 22, 2026
 ---
 
 ## About this document
