@@ -46,8 +46,8 @@ In Organic Chemistry 1, you will learn about the structure, properties, and reac
 
 - **Textbook (option 2).** "Organic Chemistry" by David Klein (Fourth or fifth edition) textbook with optional Study Guide and Solutions Manual (via Inclusive Access). 
 
-> [!NOTE]
-> During the regular semester, all sections of CHEM 128 are part of the *Inclusive Access* program. All students are automatically subscribed and have access to David Klein's *Organic Chemistry* e-textbook on the first day of class. Students who **do not** wish to pay the subscription fee to must opt out before their account is automatically charged. Students can change their decision to opt in or out until May 28, 2026 11:59 PM
+> [!IMPORTANT]
+> During the regular semester, all sections of CHEM 128 are part of the *Inclusive Access* program. All students are automatically subscribed and have access to David Klein's *Organic Chemistry* e-textbook on the first day of class. Students who **do not wish to pay the subscription fee** to must opt out before their account is automatically charged. Students can change their decision to opt in or out until May 28, 2026 11:59 PM
 
 ### How to have a good experience in CHEM 128A
 
@@ -59,7 +59,7 @@ I firmly believe that success in CHEM 128A is possible for every student as long
 
 1. **Active engagement during class time.** The best way to learn anything is to be an active participant in the process. Students who approach the class with a passive mindset typically struggle and often fail. Those who approach it with an active mindset, on the other hand, often surprise themselves with how much and how well they learn. Make it a priority not just to attend and take notes, but to learn by doing.
 2. **Asking questions.** The material in CHEM 128A is challenging, and you will almost certainly be confused regularly. When you recognize that you are confused or stuck, remember that **it is expected during a meaningful learning process.** Waiting for things to make sense on their own is a poor strategy. If a thought occurs to you that *"It's only me who doesn't get it and others have it all figured out"*, don't believe it. *Ask questions* of your classmates and me, and take action to make sense of the material.
-3. **Good management of time, tasks, and information.** Understanding the material won't help you if you procrastinate, neglect announcements, or don't use a calendar. 
+3. **Good management of time, tasks, and information.** Understanding the material won't help you if you procrastinate, neglect announcements, or don't use a calendar. This is especially important in an accelerated course like this one, where we will cover one week's worth of material in a single day. 
 
 ### Why study organic chemistry?
 
