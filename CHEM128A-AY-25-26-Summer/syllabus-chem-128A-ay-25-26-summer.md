@@ -108,25 +108,33 @@ The Summer 2026 session runs from Tuesday, May 26 through Friday, June 12. The f
 
 ## Assessments and grading
 
-### Types of assessments
-
 The course uses a grading system that emphasizes *growth*, and your work must meet standards to demonstrate mastery of the material. You will be engaging with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. 
 
-#### Mastery of basic skills
+## Types of assessments
 
-Course goals are too broad to be assessed and are further divided into 14 *Learning Targets*, each focused on a specific skill and/or content we will be studying. For each *Learning Target*, there are three levels of achievement: *Beginner*, *Progressing*, and *Mastered*. Students can find detailed rubrics in the companion document titled *Standards for Student Work*.
+**Class Primers**.Ongoing engagement with the course is an important part of the learning process. *Class Primers* are pre-class assignments that support your autodidactic efforts and will prepare you for in-class activities. They are the main way you will demonstrate your engagement with the course. 
 
-#### Application of skills (Integrated Problems)
+**Learning Targets**. Course goals are too broad to be assessed reliably. Therefore, they are further divided into 14 *Learning Targets*, each focused on a specific skill or content we will be studying. Each *Learning Target* is assessed separately on a scale of *Beginner*,  *Progressing*, and *Mastered*. To earn a particular letter grade, you must earn a *Master* mark on a certain number of Learning Targets, as well as meet other requirements.
 
-Using cooking as an analogy, a chef uses their knowledge of ingredients and basic skills to prepare a dish or a meal. Similarly, *Integrated Problems* will assess a broader range of skills and knowledge that span multiple Learning Targets. Solving integrated problems will require the use of multiple basic OChem skills *and* communication skills to compose and convey the answer. The problems may have multiple parts composed of basic and extended practice problems, and harder problems that involve applications. Think of this assignment as a short paper that is evaluated as a whole. 
+**Integrated Problems**. Using cooking as an analogy, a chef uses their knowledge of ingredients and basic skills to prepare a dish or a meal. Similarly, *Integrated Problems* will assess a broader range of skills and knowledge that span multiple Learning Targets. Solving integrated problems will also require communication skills to compose and convey the answer. Think of this assignment as a short paper that is evaluated as a whole and must meet certain specifications to be accepted. Students can request a problem after they have earned *Master* on LTs 1-4.
 
-#### Engagement
+### Note on marks posted on Canvas
 
-Ongoing engagement with the course is an important part of the learning process. **Class Primers** are the main way you will demonstrate your engagement with the course. They are pre-class assignments that support your autodidactic efforts and will prepare you for in-class activities. 
+Points, statistics, and flattening approaches (grading on a curve) are not involved; your grade is determined with a checklist. However, Canvas developers insist that assignments have a point value and force a numerical score that is treated as a quantitative measure which doesn't align with the grading approach I use in my courses. Therefore, I only use numbers as qualitative data. For example, zip codes or student IDs are qualitative data. They are still numbers, but only to make a distinction between different entities. Doing mathematical operations on them makes no sense. 
+
+| Assignment            | Shows on Canvas  | Can be reattempted? |
+| :-------------------- | :--------------- | :------------------ |
+| Class Primer          | `0` or `1`       | No                  |
+| Learning Target       | `0`, `1`, or `2` | Yes                 |
+| Integrated Problems   | `0` or `1`       | Yes                 |
+
+The description of Canvas assignments will include a note stating, "This assignment does not count toward the final grade." This is to clarify that numbers in the gradebook serve as marks indicating progress.
 
 ### How course final grades are determined
 
-Your course grade is determined using the table below. To earn a particular letter grade, all requirements in the column for that grade must be met. A failing grade (F) will be issued if all the requirements for a "D" are not met. If the total number of assignments of a given type is changed due to scheduling or other issues, this table will be updated.
+Your course grade is determined using the table below. To earn a particular letter grade, all requirements in the column for that grade must be met. A failing grade (F) will be issued if all the requirements for a "D" are not met. 
+
+CORE Learning Targets are the most important. Failing to earn *Master* on all CORE LTs will result in one letter grade reduction. Also, a higher score in one category cannot be used as an argument to "prop up" an insufficient score in another category. For example, earning a *Master* on more LT Problems will not compensate for a lower count of solved Integrated Problems. I will use my professional judgment to assess the student's engagement and effort. 
 
 | Category (total)    | D   | C   | B   | A   |
 | ------------------- | --- | --- | --- | --- |
@@ -135,39 +143,13 @@ Your course grade is determined using the table below. To earn a particular lett
 | All CORE LTs        | No  | Yes | Yes | Yes |
 | Integrated Problems | 0   | 0   | 1   | 3   |
 
-If you master the  *CORE Learning Targets*, show some evidence of being able to apply the basic skills, and stay reasonably engaged in the class, you can expect to pass the class. Students who aspire to earn an "A" must master nearly all LTs (including all CORE), consistently show they can apply basic skills to solve *Integrated Problems*, and stay highly engaged and prepared for class.
-
-> [!CAUTION]
-CORE Learning Targets are the most important. Failing to earn *Master* on all CORE LTs will result in one letter grade reduction. The numbers for the *Learning Targets* column refer to the number of LTs for which you earn a *Master* rating (shown in Canvas as `2`). Marks of *Progressing* (`1`) or *Beginner* (`0`) **do not count**.
-
-#### Borderline cases
-
-With nearly 20 students in the class, each on a different path to the final grade, a student may complete almost all requirements (except one). I will use my professional judgment to assess the student's engagement and effort, and leave the option to assign a grade higher (but never lower) than the syllabus indicates. Therefore, it is in your best interest to demonstrate that you are engaged and invested in achieving the course's learning objectives.
-
-> [!IMPORTANT]
-> A higher score in one category cannot be used as an argument to "prop up" an insufficient score in another category. For example, earning a *Master* on more LT Problems will not compensate for a lower count of solved Integrated Problems. Also, you don't have to do it all. If you aim for "A", you **do not** have to complete *every* Learning Target.
 
 ### Why I think this is a better approach to grading
 
-The grading system outlined above may be unusual, but in my view, it has several advantages:
+As a teacher and learner, I strongly believe that *learning takes time* and that grading your work based on a single data point, such as a single quiz or test, is inaccurate, invalid, and perhaps unethical. A truly valid measure of learning has to involve *multiple attempts* that allow you to learn from (and correct) your past mistakes and demonstrate not only your skill, but also your growth. You should not be penalized for having a bad day that results in a bad test score, so long as you can show evidence that you've *eventually* learned what you need to learn. The grading system outlined above may be unusual, but in my view, it has several advantages over traditional grading systems:
 
-- Many assignments can be revised or reattempted if you need to improve your work ([see the next section below](#revisions-and-reattempts)). Once you have demonstrated *Mastery* on a *Learning Target*, *Integrated Problem*, you do not have to revisit it in the course. If you do well on the Checkpoints, you will only need to work a subset of the problems available on the final Checkpoint. 
+- Many assignments can be revised or reattempted if you need to improve your work ([see the next section below](#revisions-and-reattempts)). Once you have demonstrated *Mastery* on a *Learning Target*, *Integrated Problem*, you do not have to revisit it in the course. If you do well on the Checkpoints, you will only need to work a subset of the problems available on the Checkpoint Finale. 
 - If you're off to a shaky start and your marks early in the session are poor, you have time to practice and improve, and past results don't hurt your final grade.
-- Points, statistics, and unhumanistic approaches such as grading on a curve are not involved; your grade is a checklist.
-
-The main downside of this grading system is that it appears complex to most students when they first encounter it, but most students "get it" after a few weeks, and I am always happy to clarify.
-
-As a teacher and learner, I strongly believe that *learning takes time* and that grading your work based on a single data point, such as a single quiz or test, is inaccurate, invalid, and perhaps unethical. A truly valid measure of learning has to involve *multiple attempts* that allow you to learn from (and correct) your past mistakes and demonstrate not only your skill, but also your growth. You should not be penalized for having a bad day that results in a bad test score, so long as you can show evidence that you've *eventually* learned what you need to learn. Course learning objectives are phrased as "at the end of the course the student should be able to…". Thus, nothing is final until the end of the course.
-
-### Note on grades posted on Canvas
-
-Canvas developers insist that assignments have a point value, which contradicts the grading approach I use in my courses. I developed the following workaround for this issue and only use numbers as qualitative data. For example, zip codes are qualitative data. They are numbers, but doing mathematical operations on them makes no sense. The description of Canvas assignments will include a note stating, "This assignment does not count toward the final grade." Numbers in the gradebook serve as marks indicating progress.
-
-| Assignment            | Shows on Canvas  | Can be reattempted? |
-| :-------------------- | :--------------- | :------------------ |
-| Class Primer          | `0` or `1`       | No                  |
-| Learning Target       | `0`, `1`, or `2` | Yes                 |
-| Integrated Problems   | `0` or `1`       | Yes                 |
 
 ### Revisions and reattempts
 
@@ -186,9 +168,7 @@ Each Checkpoint contains new LT problems as well as new versions of older ones. 
 
 #### Integrated Problems
 
-You can revise and resubmit each Integrated Problem once (a total of two attempts). Your initial attempt will receive verbal or written feedback, and you can use that feedback to make corrections and/or improvements as called for. 
-
-Integrated Problems will come with a deadline for initial submissions. You must submit a complete, good-faith effort on the assignment before the deadline to be eligible to revise or resubmit it. Examples of situations where revision would not be allowed include the following:
+You can revise and resubmit each Integrated Problem once (a total of two attempts). Your initial attempt will receive verbal or written feedback, and you can use that feedback to make corrections and/or improvements as called for. Integrated Problems will come with a deadline for initial submissions. You must submit a complete, good-faith effort on the assignment before the deadline to be eligible to revise or resubmit it. Examples of situations where revision would not be allowed include the following:
 
 - The assignment is not submitted at all before the deadline (In other words, you cannot "revise" an assignment you did not turn in).
 - The assignment is submitted, but some parts of the problem are skipped or omitted either partially or entirely, or include responses saying something like "I didn't know how to do this part," but no significant attempt at a solution.
@@ -198,7 +178,7 @@ Solutions are submitted on paper in class within 2 days of being assigned. Revis
 
 ## Instructor availability and message responses
 
-**You can ask a question about anything at any time.** You have both the right and the responsibility to ask questions about anything in the course you don't fully understand, whether math or some aspect of the syllabus or anything else. You can come to office hours or grab me before or after class. However, please note that I am unlikely to respond to course content-related questions over email. We will see each other 5 days a week and have plenty of opportunities to discuss course material in person. **I do not typically check email between 5:00 pm and 8:30 am on weeknights**, and **I do not typically check email at all on weekends** to prioritize time for family and other non-work pursuits. 
+**You can ask a question about anything at any time.** You have both the right and the responsibility to ask questions about anything in the course you don't fully understand, whether math or some aspect of the syllabus or anything else. You can come to office hours or grab me before or after class. However, please note that I am unlikely to respond to course content-related questions over email. We will see each other 5 days a week and have plenty of opportunities to discuss course material in person. **I rarely check email between 5:00 pm and 8:30 am on weeknights and on weekends** to prioritize time for family and other non-work pursuits. 
 
 ## Course policies
 
