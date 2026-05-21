@@ -74,7 +74,7 @@ To achieve the course goals, we will focus on a variety of skills within the two
 1. **Visual language of organic chemistry**. Organic chemistry uses a visual language to represent the structure and reactivity of organic molecules. This language includes drawing and naming conventions, projections, and the use of symbols and diagrams. This visual language is used to explain physical properties and how chemical reactions occur by relating them to molecular-level phenomena. 
 2. **Information processing.** Organic chemistry involves processing information about chemical structures to explain experimental observations, make comparisons, and predictions. This includes analyzing reactions, predicting products, proposing reactants, and finding synthetic routes to target molecules.
 
-Specific skills and conceptual knowledge within these two domains are the Learning Targets for this course, listed in [Appendix A](#appendix-a-list-of-learning-targets). Showing proficiency in a small subset of **CORE**Learning Targets is required to earn a passing grade in CHEM 128A. 
+Specific skills and conceptual knowledge within these two domains are the Learning Targets for this course, listed in [Appendix A](#appendix-a-list-of-learning-targets). Showing proficiency in a small subset of **CORE** Learning Targets is required to earn a passing grade in CHEM 128A. 
 
 ### Course content and workflow
 
@@ -103,20 +103,30 @@ The Summer 2026 session runs from Tuesday, May 26 through Friday, June 12. The f
 | Wed, Jun 10 | Chemistry of alcohols and ethers                                            | CP-12        | 17.1-17.7               |            |
 | Thu, Jun 11 | Synthetic strategies (review of reactions and mechanisms)                   | CP-13        | 18.1-18.5               | 10-14      |
 | Fri, Jun 12 | Synthetic strategies (review of reactions and mechanisms)                   | CP-14        | TBD                     |            |
-| Mon, Jun 15 | Final checkpoint                                                            |              |                         | 1-14       |
+| Mon, Jun 15 | Checkpoint Finale                                                            |              |                         | 1-14       |
 | Fri, Jun 19 | Grades posted                                                               |              |                         |            |
 
-## Assessments and grading
+## Types of assessments and grading
 
 The course uses a grading system that emphasizes *growth*, and your work must meet standards to demonstrate mastery of the material. You will be engaging with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. 
 
-## Types of assessments
+**Class Primers**.Ongoing engagement with the course is an important part of the learning process. *Class Primers* are pre-class assignments that support your autodidactic efforts and will prepare you for in-class activities. They are the main way you will demonstrate your engagement with the course. Class Primers are graded based on completion. 
 
-**Class Primers**.Ongoing engagement with the course is an important part of the learning process. *Class Primers* are pre-class assignments that support your autodidactic efforts and will prepare you for in-class activities. They are the main way you will demonstrate your engagement with the course. 
+**Learning Targets and Checkpoints**. Course goals are too broad to be assessed reliably. Therefore, they are further divided into 14 *Learning Targets*, each focused on a specific skill or content we will be studying. Each *Learning Target* is assessed separately on a scale of *Beginner*,  *Progressing*, and *Mastered*. To earn a particular letter grade, you must earn a *Master* mark on a certain number of Learning Targets, as well as meet other requirements. 
 
-**Learning Targets**. Course goals are too broad to be assessed reliably. Therefore, they are further divided into 14 *Learning Targets*, each focused on a specific skill or content we will be studying. Each *Learning Target* is assessed separately on a scale of *Beginner*,  *Progressing*, and *Mastered*. To earn a particular letter grade, you must earn a *Master* mark on a certain number of Learning Targets, as well as meet other requirements.
+Learning Targets are assessed during Checkpoints, which are in-class assessments that occur on Mondays and Thursdays. Each Checkpoint will have a set of LTs available for you to attempt, and you can choose which ones to work on but the time will be limited. 
 
-**Integrated Problems**. Using cooking as an analogy, a chef uses their knowledge of ingredients and basic skills to prepare a dish or a meal. Similarly, *Integrated Problems* will assess a broader range of skills and knowledge that span multiple Learning Targets. Solving integrated problems will also require communication skills to compose and convey the answer. Think of this assignment as a short paper that is evaluated as a whole and must meet certain specifications to be accepted. Students can request a problem after they have earned *Master* on LTs 1-4.
+
+| Checkpoint       | Date    | LT Menu |
+| :--------------- | :------ | :------ |
+| Checkpoint 1     | May28   | 1-3     |
+| Checkpoint 2     | June 1  | 1-6     |
+| Checkpoint 3     | June 4  | 4-9     |
+| Checkpoint 4     | June 8  | 7-11    |
+| Checkpoint 5     | June 11 | 10-14   |
+| Final Checkpoint | June 15 | 1-14    |
+
+**Integrated Problems**. Using cooking as an analogy, a chef uses their knowledge of ingredients and basic skills to prepare a dish or a meal. Similarly, *Integrated Problems* will assess a broader range of skills and knowledge that span multiple Learning Targets. Solving integrated problems will also require communication skills to compose and convey the answer. Think of this assignment as a short paper that is evaluated as a whole and must meet certain specifications to be accepted. Students can request a problem after they have earned *Master* on LTs 1–4.
 
 ### Note on marks posted on Canvas
 
@@ -151,24 +161,11 @@ As a teacher and learner, I strongly believe that *learning takes time* and that
 - Many assignments can be revised or reattempted if you need to improve your work ([see the next section below](#revisions-and-reattempts)). Once you have demonstrated *Mastery* on a *Learning Target*, *Integrated Problem*, you do not have to revisit it in the course. If you do well on the Checkpoints, you will only need to work a subset of the problems available on the Checkpoint Finale. 
 - If you're off to a shaky start and your marks early in the session are poor, you have time to practice and improve, and past results don't hurt your final grade.
 
-### Revisions and reattempts
+## Revisions and reattempts
 
-#### Learning Targets
+**Learning Targets**. Each Checkpoint will contain new LT problems as well as new versions of older ones. If you attempt an LT problem and do not earn *Master* on it, you can reattempt it at the next Checkpoint. For each Learning Target, you will have at least 2 opportunities to earn a *Master* mark. Detailed rubrics on how those marks are given can be found in the [Standards for Student Work][standards-for-student-work] document.
 
-Each Checkpoint contains new LT problems as well as new versions of older ones. If you attempt an LT problem and do not earn *Master* on it, you can reattempt it at the next Checkpoint. For each Learning Target, you will have at least 2 opportunities to earn a *Master* mark. Detailed rubrics on how those marks are given can be found in the [Standards for Student Work][standards-for-student-work] document.
-
-| Checkpoint       | Date    | LT Menu |
-| :--------------- | :------ | :------ |
-| Checkpoint 1     | May28   | 1-3     |
-| Checkpoint 2     | June 1  | 1-6     |
-| Checkpoint 3     | June 4  | 4-9     |
-| Checkpoint 4     | June 8  | 7-11    |
-| Checkpoint 5     | June 11 | 10-14   |
-| Final Checkpoint | June 15 | 1-14    |
-
-#### Integrated Problems
-
-You can revise and resubmit each Integrated Problem once (a total of two attempts). Your initial attempt will receive verbal or written feedback, and you can use that feedback to make corrections and/or improvements as called for. Integrated Problems will come with a deadline for initial submissions. You must submit a complete, good-faith effort on the assignment before the deadline to be eligible to revise or resubmit it. Examples of situations where revision would not be allowed include the following:
+**Integrated Problems**. You can revise and resubmit each Integrated Problem once (a total of two attempts). Your initial attempt will receive verbal or written feedback, and you can use that feedback to make corrections and/or improvements as called for. Integrated Problems will come with a deadline for initial submissions. You must submit a complete, good-faith effort on the assignment before the deadline to be eligible to revise or resubmit it. Examples of situations where revision would not be allowed include the following:
 
 - The assignment is not submitted at all before the deadline (In other words, you cannot "revise" an assignment you did not turn in).
 - The assignment is submitted, but some parts of the problem are skipped or omitted either partially or entirely, or include responses saying something like "I didn't know how to do this part," but no significant attempt at a solution.
@@ -194,7 +191,7 @@ None of these policies should be necessary because there's no need to be academi
 Any action or behavior that misrepresents one's contributions to or the results of any scholarly product submitted for credit, evaluation, or dissemination will be considered academic misconduct. For example:
 
 - *Cheating*: Attempting to use materials, information, or aids that have not been authorized by the instructor for academic work.
-- *Collusion*: Unauthorized collaboration with another person in preparing academic assignments offered for credit, and collaboration with another person to violate any section of the rules on academic misconduct. Generative AI tools such as ChatGPT are included in the definition of "another person".
+- *Collusion*: Unauthorized collaboration with another person or agent in preparing academic assignments offered for credit, and collaboration with another person to violate any section of the rules on academic misconduct. Generative AI tools such as ChatGPT are included in the definition of "another agent".
 - *Dual submission*: Submitting work that has been previously graded, or is being submitted concurrently to more than one course, without authorization from the instructor of the class to which the student wishes to submit. (This especially applies to those who are repeating CHEM 128A.)
 - *Plagiarism*: Appropriation of, buying, receiving as a gift, or obtaining by any means material that is attributable in whole or in part to another source without any indication or citation of the source, including words, sentences, ideas, illustrations, structure, computer code, and other expression or media, and presenting that material as one's own academic work being offered for credit or in conjunction with a program, course, or degree requirements.
 
@@ -202,9 +199,9 @@ Please note that this is not a complete list, and note that **enabling others** 
 
 In CHEM 128A, when you submit an item for grading, it must represent *your* ideas and be written in *your* voice, however flawed those may be. Your work cannot consist of a significant part of ideas or wording from another person or an AI tool. Specific guidelines for each form of assignment are:
 
+- **Class Primers**: You're allowed, actually encouraged, to collaborate freely with others on these as long as you are obeying the general rule that the work you turn in is your ideas and your voice. If there is ever an exception, you'll be told in advance.
 - **Learning Target problems**: These are completed on paper during a class meeting. No collaboration or notes are allowed.
 - **Integrated Problems**: Sometimes these are extensions of simpler problems that we do in groups during class, and you can use the results of that collaboration. Otherwise, you are allowed to consult with another person or an AI tool if the issue pertains to terminology used in the problem or very high-level discussions about what the problem is asking for. But no collaboration with people or AI is allowed on any question or strategy that involves actually solving the problem. 
-- **Class Primers**: You're allowed, actually encouraged, to collaborate freely with others on these as long as you are obeying the general rule that the work you turn in is your ideas and your voice. If there is ever an exception, you'll be told in advance.
 
 I have no interest in creating a police state in my courses. But I am obliged to investigate any evidence I perceive in which a student is submitting work that does not faithfully represent their own understanding. This investigation may involve discussions about the work or a request to reproduce it or something like it in a face-to-face meeting.
 
@@ -212,7 +209,9 @@ You can ask me (Dr. Muchalski) any question you want, about anything, at any tim
 
 ### Attendance and participation
 
-Attendance is expected at all class meetings. The pace of the course is such that missing a class will put you behind almost immediately, and it's very hard to catch up. Participation is the incentive to attend classes regularly. Participation is an essential element of attendance. As mentioned before, the class is designed using a flipped learning model, where the majority of in-class time is spent on active participation rather than passive observation of the instructor lecturing from slides.
+Attendance is expected at all class meetings. The pace of the course is such that missing a class will put you behind almost immediately, and it's very hard to catch up. The class is designed using a flipped learning model, where the majority of in-class time is spent on active participation rather than passive observation of the instructor lecturing from slides. 
+
+Class Primer is the record of class attendance and must by turned in before the class starts. If you are not in class or you are late, you cannot turn in the Class Primer for that day, and you will not get credit for it.
 
 ### Absences
 
@@ -225,6 +224,8 @@ If you must be absent, you do not need prior permission or justification, but a 
 Deadlines for Class Primers and Integrated Problems are listed on Canvas. In cases of apparent conflict between dates (different dates on a description page and different in the calendar), always assume that the Course Calendar is right.
 
 ### Intellectual Property
+
+Course content is copyrighted by the instructor. Students are prohibited from feeding course content to any AI tool. Students are not allowed to take pictures of the content written on the whiteboard or shared on slides and feed it to an AI tool. 
 
 Students are prohibited from any unauthorized recording, dissemination, or publication of any academic presentation, including any online classroom instruction, for any commercial purpose. In addition, students may not record or use virtual/online instruction in any manner that would violate copyright law. Students are to use all online/virtual instruction exclusively for the educational purpose of the online class in which it is provided. Students may not re-record any online recordings or post any online recordings on any other format (e.g., electronic, video, social media, audio recording, web page, internet, hard paper copy, etc.) for any purpose without the explicit written permission of the faculty member providing the instruction. Exceptions to disability-related accommodations will be addressed by Services for Students with Disabilities (SSD), working in conjunction with the student and the faculty member.
 
