@@ -151,7 +151,7 @@ CORE Learning Targets are the most important. Failing to earn *Master* on all CO
 | Class Primers       | 5   | 7   | 9   | 12  |
 | Learning Targets @2 | 5   | 7   | 9   | 12  |
 | All CORE LTs        | No  | Yes | Yes | Yes |
-| Integrated Problems | 0   | 0   | 1   | 3   |
+| Integrated Problems | 0   | 0   | 2   | 5   |
 
 
 ### Why I think this is a better approach to grading
@@ -211,8 +211,6 @@ You can ask me (Dr. Muchalski) any question you want, about anything, at any tim
 
 Attendance is expected at all class meetings. The pace of the course is such that missing a class will put you behind almost immediately, and it's very hard to catch up. The class is designed using a flipped learning model, where the majority of in-class time is spent on active participation rather than passive observation of the instructor lecturing from slides. 
 
-Class Primer is the record of class attendance and must by turned in before the class starts. If you are not in class or you are late, you cannot turn in the Class Primer for that day, and you will not get credit for it.
-
 ### Absences
 
 Student absences (planned, unplanned, and for University-sponsored activities) will be handled in accordance with the [*Policy on Student Absences (APM 232)*][apm232].
@@ -221,7 +219,7 @@ If you must be absent, you do not need prior permission or justification, but a 
 
 ### Deadlines and late work
 
-Deadlines for Class Primers and Integrated Problems are listed on Canvas. In cases of apparent conflict between dates (different dates on a description page and different in the calendar), always assume that the Course Calendar is right.
+Class Primers are due at the start of each class meeting and are the record of class attendance. If you are not in class or you are late, you cannot turn in the Class Primer for that day, and you will not get credit for it. Deadlines for Integrated Problems are listed on Canvas. In cases of apparent conflict between dates (different dates on a description page and different in the calendar), always assume that the Course Calendar is right.
 
 ### Intellectual Property
 

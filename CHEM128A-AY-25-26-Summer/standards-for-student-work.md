@@ -1,6 +1,6 @@
 ---
 title: "Standards for Student Work in CHEM 128"
-updated: May 19, 2026
+updated: May 23, 2026
 ---
 
 ## About this document
@@ -11,10 +11,7 @@ This document is as important as the Syllabus and Calendar for guiding your prog
 
 ## General Standards for all student work
 
-- It is not enough to give a correct answer to a problem. The complete solution consists of a correct answer to the problem and a clear, correct, and complete explanation/commentary. 
-- You should write as if the reader were a student like you. The reader is one of your classmates, with the same level of training and background as you, but no familiarity with the problem you are solving. They should be able to follow your solution from beginning to end and agree with your answer, without having to do much or any extra work. If your explanation skips steps, or asserts that something is true rather than explains why, or uses language that is unclear or hard to follow, or is disorganized or illogical, or other such things, you'll probably be asked to revise and resubmit.
-- Solutions to problems should generally be free of any significant errors, and you should submit work that is totally free of these. Make sure to read the section below that defines what is considered a "significant error".
-- Minor errors are typically ignored as long as there are not too many of them. An error is "minor" if it is not central to the concept being assessed. Rather than giving partial credit, we'll ignore minor mistakes that don't concern the main concept. But please note, an error that is minor in one problem might be significant in another!
+It is not enough to give a correct answer to a problem. The complete solution consists of a correct answer to the problem and a clear, correct, and complete explanation/commentary. You should write as if the reader were a student like you. The reader is one of your classmates, with the same level of training and background as you, but no familiarity with the problem you are solving. They should be able to follow your solution from beginning to end and agree with your answer, without having to do much or any extra work. If your explanation skips steps, or asserts that something is true rather than explains why, or uses language that is unclear or hard to follow, or is disorganized or illogical, or other such things, you'll probably be asked to revise and resubmit. - Solutions to problems should generally be free of any significant errors, and you should submit work that is totally free of these. Make sure to read the section below that defines what is considered a "significant error". Minor errors are typically ignored as long as there are not too many of them. An error is "minor" if it is not central to the concept being assessed. Rather than giving partial credit, we'll ignore minor mistakes that don't concern the main concept. But please note, an error that is minor in one problem might be significant in another!
 
 ## So, what is an "error"?
 
@@ -31,26 +28,29 @@ I will refer to these kinds of errors by name in your feedback. Everyone will ma
 
 ## Standards for Class Primers
 
-Class Primers are assignments completed before the class meeting. You get credit for completing the assignment before the deadline and for giving each item a good-faith effort to solve it correctly.
+Class Primers are about the process, not the outcome. I will not grade them, but I will review them for completeness and proof of effort. If you want to help me help you, add commentary to your Class Primers about what you found difficult, what you found easy, and what you found interesting. I will use this information to guide our in-class activities and discussions. A **Success** mark is given when the work is submitted by the deadline, and every item that is not marked "Optional" has a complete and good-faith response. **Incomplete** mark is given when the work is not turned in on time, or there is at least one non-optional item left unanswered (even if accidental), or has a response indicating insufficient effort. 
 
-- **Success** mark is given when the work is submitted by the deadline, and every item that is not marked "Optional" has a complete and good-faith response.
-- **Incomplete** mark is given when the work is not turned in on time, or there is at least one non-optional item left unanswered (even if accidental), or has a response indicating insufficient effort.
+Some style and formatting specifications for Class Primers:
+
+- Write on paper, single-sided. 
+- Write your name (Last Name, First Name) in the top right corner of the first page.
+- Label the problems clearly and organize your work in a way that makes it easy to navigate. 
+- If you really want to learn, use a pen, not a pencil. If you make a mistake, realize your attempt at a problem is going nowhere, and want to start over, cross out your work and keep going. Better yet, write a comment on why you thought the approach was not going to be fruitful. You will learn from mistakes, but only if you have a record of them. 
+
 
 > [!NOTE]
->
-> - Correct answers are not required on Class Primers; only a good-faith effort to answer all required items and timeliness are required. One of the reasons we do Class Primers is to surface any misconceptions or errors in thinking you might have at the start of a new topic so that we can work on them in class. Honest mistakes are welcome.
-> - Giving a response like "I don't know", "I don't understand", etc., will be treated as blank responses and will be marked as incomplete.
+> Correct answers are not required on Class Primers; only a good-faith effort to answer all required items and timeliness are required. One of the reasons we do Class Primers is to surface any misconceptions or errors in thinking you might have at the start of a new topic so that we can work on them in class. Honest mistakes are welcome. Giving a response like "I don't know", "I don't understand", etc., will be treated as blank responses and will be marked as incomplete.
 
 ## Standards for Learning Targets
 
 Each Learning Target problem has its own set of criteria for success listed on the problem page. Your work will be marked *Master*, *Proficient*, or *Beginner* depending on the extent to which the work meets the stated criteria.
 
 - **Master** mark is given when each part of the problem has a response that is free from significant errors, has correct answers, a clear explanation, and includes molecular drawings that follow the conventions and style of organic chemistry visual language. Shows in Canvas as `2`.
-- **Proficient** mark is given when evidence of partial understanding of the concepts is shown from the work. Either there is one or more significant errors, or an answer that appears with insufficient explanation. Shows in Canvas as `1`
+- **Progressing** mark is given when evidence of partial understanding of the concepts is shown from the work. Either there is one or more significant errors, or an answer that appears with insufficient explanation. Shows in Canvas as `1`
 - **Beginner** mark is given when the problem has been attempted, but the solution contains multiple significant errors or is presented without sufficient explanation. Shows in Canvas as `0`
 
 > [!NOTE]
-> It is not enough to give the right answers. For many LT problems, you must also provide a commentary or an explanation for your choices. Your goal on an LT Problem is to provide sufficient evidence that you have mastered the concept in the problem. It is not to your advantage to withhold any such evidence or expect that I will infer what you had in mind when you produced the solution. So provide clear chemical steps and a brief but clear English explanation to give sufficient evidence to warrant a **Master** mark.
+> It is not enough to give the right answers. For many LT problems, you must also provide a commentary or an explanation for your choices. Your goal on an LT Problem is to provide sufficient evidence that you have mastered the process of solving the problem. It is not to your advantage to withhold any such evidence or expect that I will infer what you had in mind when you produced the solution. So provide clear chemical steps and a brief but clear English explanation to give sufficient evidence to warrant a **Master** mark.
 
 ## Standards for Integrated Problems
 
@@ -66,7 +66,7 @@ Integrated Problems must include a solution to the problem, as well as commentar
 
 ### Completeness
 
-The target audience for Integrated Problem solutions is a student like you —a person with some background in chemistry but no familiarity with the problem described in the article. *The instructor (prof. Muchalski) is not the audience*---don't assume that the person reading the solution has a graduate degree in organic chemistry or has been studying the topic before. Completeness means that all required parts of the solution are present and explained, with no major gaps left for the reader to fill in.
+The target audience for Integrated Problem solutions is a student like you —a person with some background in chemistry but no familiarity with the problem described in the article. *The instructor (prof. Muchalski) is not the audience*---don't assume that the person reading the solution has a degree in organic chemistry or has been studying the topic before. Completeness means that all required parts of the solution are present and explained, with no major gaps left for the reader to fill in.
 
 If you can't honestly say that a student in CHEM 128A could follow the solution from beginning to end and agree with your conclusions without doing any additional work on the side, then your write-up needs further editing. (And it will be marked *Revise* if submitted.)
 
