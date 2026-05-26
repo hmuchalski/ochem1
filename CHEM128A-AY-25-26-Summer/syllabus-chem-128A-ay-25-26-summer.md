@@ -151,7 +151,7 @@ CORE Learning Targets are the most important. Failing to earn *Master* on all CO
 | Class Primers       | 5   | 7   | 9   | 12  |
 | Learning Targets @2 | 5   | 7   | 9   | 12  |
 | All CORE LTs        | No  | Yes | Yes | Yes |
-| Integrated Problems | 0   | 0   | 2   | 5   |
+| Integrated Problems | 0   | 0   | 1   | 4   |
 
 
 ### Why I think this is a better approach to grading
