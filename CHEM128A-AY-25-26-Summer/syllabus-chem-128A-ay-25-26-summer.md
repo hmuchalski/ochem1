@@ -96,14 +96,14 @@ The Summer 2026 session runs from Tuesday, May 26 through Friday, June 12. The f
 | Mon, Jun 01 | Nomenclature, stereochemistry, and isomeric relationships                   | CP-05        | 5.1-5.12 + nomenclature | 1-6        |
 | Tue, Jun 02 | Reactions, mechanism patterns, curved arrows, and reactive intermediates    | CP-06        | 6.1-6.11                |            |
 | Wed, Jun 03 | Reactions of alkenes                                                        | CP-07        | 7.1-7.11                |            |
-| Thu, Jun 04 | Reactions of alkenes and alkynes                                            | CP-08        | 8.1-8.13                | 4-9        |
+| Thu, Jun 04 | Reactions of alkenes and alkynes                                            | CP-08        |                         | 4-9        |
 | Fri, Jun 05 | Reactions of alkenes and alkynes                                            | CP-09        | 9.1-9.9                 |            |
 | Mon, Jun 08 | Organic halides and pseudohalides: nucleophilic substitution                | CP-10        | 10.1-10.8               | 7-11       |
 | Tue, Jun 09 | Organic halides and pseudohalides: elimination                              | CP-11        | 11.1-11.12              |            |
 | Wed, Jun 10 | Chemistry of alcohols and ethers                                            | CP-12        | 17.1-17.7               |            |
 | Thu, Jun 11 | Synthetic strategies (review of reactions and mechanisms)                   | CP-13        | 18.1-18.5               | 10-14      |
 | Fri, Jun 12 | Synthetic strategies (review of reactions and mechanisms)                   | CP-14        | TBD                     |            |
-| Mon, Jun 15 | Checkpoint Finale                                                            |              |                         | 1-14       |
+| Mon, Jun 15 | Checkpoint Finale                                                           |              |                         | 1-14       |
 | Fri, Jun 19 | Grades posted                                                               |              |                         |            |
 
 ## Types of assessments and grading
@@ -151,7 +151,7 @@ CORE Learning Targets are the most important. Failing to earn *Master* on all CO
 | Class Primers       | 5   | 7   | 9   | 12  |
 | Learning Targets @2 | 5   | 7   | 9   | 12  |
 | All CORE LTs        | No  | Yes | Yes | Yes |
-| Integrated Problems | 0   | 0   | 1   | 4   |
+| Integrated Problems | 0   | 0   | 1   | 3   |
 
 
 ### Why I think this is a better approach to grading
