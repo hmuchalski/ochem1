@@ -268,7 +268,7 @@ Embarrassingly large portions of the language of this syllabus, as well as ideas
 10. I can categorize chemical transformations as substitution, addition, or elimination. I can determine the change in enthalpy using bond dissociation energies. I can use reaction-energy diagrams to communicate the kinetics and thermodynamics of chemical reactions.
 11. (`CORE`) Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkenes.
 12. I can identify the monomer and type of polymerization (cationic, anionic, or radical) needed to prepare a given polymer. I can draw a mechanism of formation of a polymer chain.
-13. Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkynes
+13. Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkyl halides and sulfonates.
 14. I can apply retrosynthetic analysis to a synthetic target to design a multi-step synthesis of a target molecules. Reactions of alkyl halides, alkenes, alkynes, alcohols, and ethers.
 <!-- 15. I can explain the selectivity and divergent reaction pathways of nucleophilic substitution and elimination reactions using conformational analysis and curved arrow mechanisms.  -->
 
