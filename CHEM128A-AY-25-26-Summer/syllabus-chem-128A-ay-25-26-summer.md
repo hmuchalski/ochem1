@@ -256,6 +256,8 @@ Embarrassingly large portions of the language of this syllabus, as well as ideas
 
 ## Appendix A: List of Learning Targets
 
+<!-- Consider making LT10 core, droppint LT1 as core,  -->
+
 1. (`CORE`) I can deduce bonding information (hybridization, formal charge, geometry, valence, charge polarization) embedded in chemical representations. I can draw Lewis structures compliant with the bond-line (zig-zag, skeletal) convention.
 2. I can identify functional groups, condensed formulas, and common alkyl groups. I can convert between different drawing conventions and recognize implicit carbons and hydrogens in a structure.
 3. (`CORE`) I can distinguish between localized and delocalized bonding systems. I can draw resonance forms to show electron delocalization and assess their relative contribution to the overall electronic character of the molecule.
@@ -266,7 +268,7 @@ Embarrassingly large portions of the language of this syllabus, as well as ideas
 8. I can identify types of isomeric relationships between molecules. I can use drawings of structures and projections to demonstrate the stereoisomeric relationship between molecules.
 9. (`CORE`) I can identify reaction mechanism patterns and draw curved arrows to illustrate bond-forming and bond-breaking steps. I can draw structures of transition states and reactive intermediates. I can identify nucleophilic and electrophilic centers in organic molecules.
 10. I can categorize chemical transformations as substitution, addition, or elimination. I can determine the change in enthalpy using bond dissociation energies. I can use reaction-energy diagrams to communicate the kinetics and thermodynamics of chemical reactions.
-11. (`CORE`) Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkenes.
+11. Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkenes.
 12. I can identify the monomer and type of polymerization (cationic, anionic, or radical) needed to prepare a given polymer. I can draw a mechanism of formation of a polymer chain.
 13. Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkyl halides and sulfonates.
 14. I can apply retrosynthetic analysis to a synthetic target to design a multi-step synthesis of a target molecules. Reactions of alkyl halides, alkenes, alkynes, alcohols, and ethers.
