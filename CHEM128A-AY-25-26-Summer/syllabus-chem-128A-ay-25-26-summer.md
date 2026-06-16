@@ -256,7 +256,12 @@ Embarrassingly large portions of the language of this syllabus, as well as ideas
 
 ## Appendix A: List of Learning Targets
 
-<!-- Consider making LT10 core, droppint LT1 as core,  -->
+<!-- Ideas to consider during redesign:
+
+- Consider making LT10 core, dropping LT1 as core,  
+- LT11 is too broad. Too many reactions to cover. Some of them are fundamental (carbocation-mediated reactions of alkenes) and some are more specialized
+- 
+-->
 
 1. (`CORE`) I can deduce bonding information (hybridization, formal charge, geometry, valence, charge polarization) embedded in chemical representations. I can draw Lewis structures compliant with the bond-line (zig-zag, skeletal) convention.
 2. I can identify functional groups, condensed formulas, and common alkyl groups. I can convert between different drawing conventions and recognize implicit carbons and hydrogens in a structure.
